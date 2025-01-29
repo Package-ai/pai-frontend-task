@@ -1,0 +1,2496 @@
+[
+  {
+    "id": "fvvXHaJHtHQuvwB",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/29/24 1:51 PM"
+  },
+  {
+    "id": "fuT74s9voousRg0",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 1:23 PM"
+  },
+  {
+    "id": "fuT2XJE1fqnqe4z",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 1:08 PM"
+  },
+  {
+    "id": "fuS97MQ4VwfDvzB",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 10:19 AM"
+  },
+  {
+    "id": "fuS97Lg29uFIi5R",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 10:19 AM"
+  },
+  {
+    "id": "fuS8M1uuFe7EnC4",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to you as soon as possible during the next business day.",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 10:14 AM"
+  },
+  {
+    "id": "fuNnIuK1nKLLR0z",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/23/24 3:54 PM"
+  },
+  {
+    "id": "fuNnIsSga34BG4H",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "12/23/24 3:54 PM"
+  },
+  {
+    "id": "fuNm7pdNJqMwPUq",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/23/24 3:52 PM"
+  },
+  {
+    "id": "fuNm7niIliCl8aD",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "12/23/24 3:52 PM"
+  },
+  {
+    "id": "fssV3bv3wOojzcH",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "test1",
+    "entityType": "MESSAGE",
+    "created": "12/04/24 12:00 PM"
+  },
+  {
+    "id": "fvvXHaJHtHQuvwB",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/29/24 1:51 PM"
+  },
+  {
+    "id": "fuT74s9voousRg0",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 1:23 PM"
+  },
+  {
+    "id": "fuT2XJE1fqnqe4z",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 1:08 PM"
+  },
+  {
+    "id": "fuS97MQ4VwfDvzB",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 10:19 AM"
+  },
+  {
+    "id": "fuS97Lg29uFIi5R",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 10:19 AM"
+  },
+  {
+    "id": "fuS8M1uuFe7EnC4",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to you as soon as possible during the next business day.",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 10:14 AM"
+  },
+  {
+    "id": "fuNnIuK1nKLLR0z",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/23/24 3:54 PM"
+  },
+  {
+    "id": "fuNnIsSga34BG4H",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "12/23/24 3:54 PM"
+  },
+  {
+    "id": "fuNm7pdNJqMwPUq",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/23/24 3:52 PM"
+  },
+  {
+    "id": "fuNm7niIliCl8aD",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "12/23/24 3:52 PM"
+  },
+  {
+    "id": "fssV3bv3wOojzcH",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "test1",
+    "entityType": "MESSAGE",
+    "created": "12/04/24 12:00 PM"
+  },
+  {
+    "id": "fvvXPtmaETCtQfZ",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/29/24 1:51 PM"
+  },
+  {
+    "id": "fuS81ByIlkRDs1L",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "12/24/24 10:15 AM"
+  },
+  {
+    "id": "fttbQdGs36SNvZD",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdf perets  sdf sadf +18555781332  asdf sadf",
+    "entityType": "MESSAGE",
+    "created": "12/12/24 6:13 PM"
+  },
+  {
+    "id": "fttaa7RNDL2fCX4",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdf   sdf sadf +18555781332  asdf sadf",
+    "entityType": "MESSAGE",
+    "created": "12/12/24 6:08 PM"
+  },
+  {
+    "id": "ftdaj71MBcUsLHe",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdf {<!-- -->{customerLastName}}  sdf sadf {<!-- -->{locationPhone}}  asdf sadf",
+    "entityType": "MESSAGE",
+    "created": "12/10/24 3:12 PM"
+  },
+  {
+    "id": "fst4GNzDwepUxu3",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "this is line 1\n\nthis is line 2\n\nthis is line 3\n\nRotem Perets Rotem",
+    "entityType": "MESSAGE",
+    "created": "12/04/24 3:38 PM"
+  },
+  {
+    "id": "fsdvkH1mYYKQK6s",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "SDFSAFRotem",
+    "entityType": "MESSAGE",
+    "created": "12/02/24 10:52 AM"
+  },
+  {
+    "id": "frlU8Ob16fHBwfM",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi Rotem! Please use the following link to pay your invoice. Thank you! - https://dev.pckg.ai/binntuJx0",
+    "entityType": "MESSAGE",
+    "created": "11/25/24 8:16 AM"
+  },
+  {
+    "id": "frlUiDWDUWbKxRd",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi Rotem! Please use the following link to pay your invoice. Thank you! - https://dev.pckg.ai/HlzEzbfK",
+    "entityType": "MESSAGE",
+    "created": "11/25/24 8:14 AM"
+  },
+  {
+    "id": "fqxyENZJxMt5CDI",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/18/24 3:55 PM"
+  },
+  {
+    "id": "fqxyEMbcmEuhaL2",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "external",
+    "entityType": "MESSAGE",
+    "created": "11/18/24 3:55 PM"
+  },
+  {
+    "id": "fqv8dTMYbAy9Q9i",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/18/24 11:23 AM"
+  },
+  {
+    "id": "fqv8dRPZH7LezN9",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "bottom",
+    "entityType": "MESSAGE",
+    "created": "11/18/24 11:23 AM"
+  },
+  {
+    "id": "fqv7Qd7jpoUcBtt",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to you as soon as possible during the next business day.",
+    "entityType": "MESSAGE",
+    "created": "11/18/24 11:22 AM"
+  },
+  {
+    "id": "fqv7QcEB9gbhYXu",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "bottom",
+    "entityType": "MESSAGE",
+    "created": "11/18/24 11:22 AM"
+  },
+  {
+    "id": "fpG572QuRUq9SnZ",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:54 PM"
+  },
+  {
+    "id": "fpG5700M2mwKinN",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "1",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:54 PM"
+  },
+  {
+    "id": "fpG5WzedjYyjhF6",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:53 PM"
+  },
+  {
+    "id": "fpG5WxnpPQ1aW1v",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "2",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:53 PM"
+  },
+  {
+    "id": "fpG2ZYz14VMrtj7",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:44 PM"
+  },
+  {
+    "id": "fpG2ZXH7PYMD7di",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "2",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:44 PM"
+  },
+  {
+    "id": "fpGZTgm2tyUwN64",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:34 PM"
+  },
+  {
+    "id": "fpGZTftFVebHeDZ",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "1",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:34 PM"
+  },
+  {
+    "id": "fpGXliQIZWAJE3i",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:26 PM"
+  },
+  {
+    "id": "fpGXlhWyxqKDUpj",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "2-3",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:26 PM"
+  },
+  {
+    "id": "fpGNPjZC1MPQ5pk",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 3:57 PM"
+  },
+  {
+    "id": "fpGNPg0BcNHCLPd",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "2-2",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 3:57 PM"
+  },
+  {
+    "id": "fpGFXx6HVYnrNW8",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 3:33 PM"
+  },
+  {
+    "id": "fpGFXwo1LHIitqP",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "1-1",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 3:33 PM"
+  },
+  {
+    "id": "fpGwL31Z5Lx5lR8",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 3:05 PM"
+  },
+  {
+    "id": "fpGwL2DfvavIZoL",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "from git",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 3:05 PM"
+  },
+  {
+    "id": "foXemddNWOvtMF5",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "test",
+    "entityType": "MESSAGE",
+    "created": "11/05/24 2:51 PM"
+  },
+  {
+    "id": "foPEGgtGPg1pIjq",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "+972544302026",
+    "entityType": "MESSAGE",
+    "created": "11/04/24 2:44 PM"
+  },
+  {
+    "id": "feYkUUbZUgr1TL6",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi Dreyfus",
+    "entityType": "MESSAGE",
+    "created": "08/15/24 1:22 PM"
+  },
+  {
+    "id": "fvZv4aW9iqj6fsd",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sadfasf",
+    "entityType": "MESSAGE",
+    "created": "01/02/25 11:56 AM"
+  },
+  {
+    "id": "fpHeaKdFUCYLQkW",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 5:18 PM"
+  },
+  {
+    "id": "fpHeaIkla8057O5",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "1 > 2 >1 >h",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 5:18 PM"
+  },
+  {
+    "id": "fpHdFF2VCFxqGm9",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 5:17 PM"
+  },
+  {
+    "id": "fpHdFE5DbQJoZUz",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "h > 1",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 5:17 PM"
+  },
+  {
+    "id": "fpGUKly6bF8lRiO",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:18 PM"
+  },
+  {
+    "id": "fpGUKkcDz5PfBR6",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "home > 1",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:18 PM"
+  },
+  {
+    "id": "fpGPIVXqHebUhfB",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:03 PM"
+  },
+  {
+    "id": "fpGPIUxfLF3LfxJ",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "home to page1",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 4:03 PM"
+  },
+  {
+    "id": "fpGuN2nxPBFcGHb",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 2:59 PM"
+  },
+  {
+    "id": "fpGuN1LlqZRRnNk",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "start in page 1, send in page 2",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 2:59 PM"
+  },
+  {
+    "id": "fpGuCKe9qjM2BmD",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 2:58 PM"
+  },
+  {
+    "id": "fpGuCJuwJrfkyje",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "start in home send in page 1",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 2:58 PM"
+  },
+  {
+    "id": "fpGurNJvbcv6U1V",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 2:57 PM"
+  },
+  {
+    "id": "fpGurMNJ1WuVDKf",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "start in home send in home",
+    "entityType": "MESSAGE",
+    "created": "11/11/24 2:57 PM"
+  },
+  {
+    "id": "fpxCXSrjvmcD2fz",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "SDFSAFJohn Doe",
+    "entityType": "MESSAGE",
+    "created": "11/10/24 10:44 AM"
+  },
+  {
+    "id": "foXfuFzSuUTXyHw",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "test",
+    "entityType": "MESSAGE",
+    "created": "11/05/24 2:55 PM"
+  },
+  {
+    "id": "foOOWstYNnPxE3K",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "tsdfs as asd r",
+    "entityType": "MESSAGE",
+    "created": "11/04/24 12:05 PM"
+  },
+  {
+    "id": "foIBVmVGXBjuuPL",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdasda sda",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 4:18 PM"
+  },
+  {
+    "id": "foHUzQXzHauyMrr",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 2:05 PM"
+  },
+  {
+    "id": "foHUzP16rrtZl94",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "323223",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 2:05 PM"
+  },
+  {
+    "id": "foHUrjHQry1vFlA",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 2:04 PM"
+  },
+  {
+    "id": "foHUriuksu93nRX",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdfasdf222",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 2:04 PM"
+  },
+  {
+    "id": "foHUbr02pmBO9TG",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 2:04 PM"
+  },
+  {
+    "id": "foHUbrfbJMs8096",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdfasd 222",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 2:04 PM"
+  },
+  {
+    "id": "foHuKiK1EsydzBm",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 12:45 PM"
+  },
+  {
+    "id": "foHuKhR1V1uYazr",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdfasf323223",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 12:45 PM"
+  },
+  {
+    "id": "foHusE8rRFtSws5",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 12:44 PM"
+  },
+  {
+    "id": "foHusD7PWFCOlep",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asas121",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 12:44 PM"
+  },
+  {
+    "id": "foG5032WGhSUMZL",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 11:29 AM"
+  },
+  {
+    "id": "foG50205rgwjJyy",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdf ssdf saf",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 11:29 AM"
+  },
+  {
+    "id": "foG4vqnMzPs60XZ",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 11:24 AM"
+  },
+  {
+    "id": "foG4vpmljbcWfO8",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdf sdaf 1",
+    "entityType": "MESSAGE",
+    "created": "11/03/24 11:24 AM"
+  },
+  {
+    "id": "fokZQYxapHidoRi",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sadf sdf   sadf asf  sadf sa2",
+    "entityType": "MESSAGE",
+    "created": "10/31/24 1:07 PM"
+  },
+  {
+    "id": "fokktsCjdUomown",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sadf sdf   sadf asf  sadf sa",
+    "entityType": "MESSAGE",
+    "created": "10/31/24 11:00 AM"
+  },
+  {
+    "id": "fogKonxup2F13lX",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "dfssfNYC  sdfasfJohn Doe",
+    "entityType": "MESSAGE",
+    "created": "10/30/24 11:36 PM"
+  },
+  {
+    "id": "fogJ2IPpB1yYXmC",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdasaf",
+    "entityType": "MESSAGE",
+    "created": "10/30/24 11:35 PM"
+  },
+  {
+    "id": "fn6Y6Hausecg1L1",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asd",
+    "entityType": "MESSAGE",
+    "created": "10/29/24 4:31 PM"
+  },
+  {
+    "id": "fn6YYEidc30Xm3Z",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "saf",
+    "entityType": "MESSAGE",
+    "created": "10/29/24 4:30 PM"
+  },
+  {
+    "id": "fn6YFwOfR6V6t0S",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdf",
+    "entityType": "MESSAGE",
+    "created": "10/29/24 4:29 PM"
+  },
+  {
+    "id": "fn6Yx070aDTLg6v",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "fas",
+    "entityType": "MESSAGE",
+    "created": "10/29/24 4:29 PM"
+  },
+  {
+    "id": "fn6YkhVBGrZOTNl",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdfasdf",
+    "entityType": "MESSAGE",
+    "created": "10/29/24 4:28 PM"
+  },
+  {
+    "id": "fn6XBDxO8rLTyOT",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sfda",
+    "entityType": "MESSAGE",
+    "created": "10/29/24 4:26 PM"
+  },
+  {
+    "id": "fn6Xi0MUGCW5hWm",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "testttt",
+    "entityType": "MESSAGE",
+    "created": "10/29/24 4:25 PM"
+  },
+  {
+    "id": "fnY94F4FBl6QXmk",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sd",
+    "entityType": "MESSAGE",
+    "created": "10/28/24 3:36 PM"
+  },
+  {
+    "id": "fnY9Z4R0tj25FTF",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "s",
+    "entityType": "MESSAGE",
+    "created": "10/28/24 3:36 PM"
+  },
+  {
+    "id": "fnTjCf3YPX8LEPz",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "push notifications",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 8:59 PM"
+  },
+  {
+    "id": "fnTigZhHJge6cZd",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "e",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 8:55 PM"
+  },
+  {
+    "id": "fnTh7QMorkjy75r",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "te",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 8:55 PM"
+  },
+  {
+    "id": "fnTaU78nJVLCAjZ",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "צדחד",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 8:33 PM"
+  },
+  {
+    "id": "fnSE0cxDaW6Yabv",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "df",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:54 PM"
+  },
+  {
+    "id": "fnSEUEie7W8qOuV",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "kjnb",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:54 PM"
+  },
+  {
+    "id": "fnSCQUNzw098HHS",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "reter",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:48 PM"
+  },
+  {
+    "id": "fnSCsjTTG9CPmIX",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "teastutut",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:46 PM"
+  },
+  {
+    "id": "fnSCnJlPLMDbEnG",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "testu",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:46 PM"
+  },
+  {
+    "id": "fnSCgJKXDkRhCPL",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "xcvbxcbv",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:46 PM"
+  },
+  {
+    "id": "fnSBLA8e7xGNOFX",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "fsaf asf asf sa f",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:44 PM"
+  },
+  {
+    "id": "fnSBCmDEPMbUqK7",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "ntrtnnag sasad fasg",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:44 PM"
+  },
+  {
+    "id": "fnSBtZOlIHMUi9J",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "tsagg",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:43 PM"
+  },
+  {
+    "id": "fnSBkX0KPc4Zs60",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "xczvzx",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:43 PM"
+  },
+  {
+    "id": "fnSA3fg45kEXJin",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:42 PM"
+  },
+  {
+    "id": "fnSAZ1Gst3o7PQj",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "xcv",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:42 PM"
+  },
+  {
+    "id": "fnSznehoYmDY113",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:37 PM"
+  },
+  {
+    "id": "fnSzfaaEKDdNxQS",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asdasd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:36 PM"
+  },
+  {
+    "id": "fnSy7YHFwra0QL5",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdfasf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:36 PM"
+  },
+  {
+    "id": "fnSrjkOFF6jY8Fp",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:12 PM"
+  },
+  {
+    "id": "fnSq3zImKn66xoe",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:11 PM"
+  },
+  {
+    "id": "fnSqQNfZrNShJKe",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sadads",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:11 PM"
+  },
+  {
+    "id": "fnSqzmpftQfUgSB",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "fdgdfg",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:10 PM"
+  },
+  {
+    "id": "fnSqxauHIE8zTyj",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:10 PM"
+  },
+  {
+    "id": "fnSqm6KaMT9INBu",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:09 PM"
+  },
+  {
+    "id": "fnSp1LyEGrPywXy",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:08 PM"
+  },
+  {
+    "id": "fnSpYKkEWkOT2J0",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "dfsg",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:08 PM"
+  },
+  {
+    "id": "fnSoGAdamnm82pz",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:04 PM"
+  },
+  {
+    "id": "fnSoEawQNppZhv6",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "asd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 6:04 PM"
+  },
+  {
+    "id": "fnSk5JbjHopd7sU",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:53 PM"
+  },
+  {
+    "id": "fnSk27yQNtibvr1",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:53 PM"
+  },
+  {
+    "id": "fnSkrz0n69uzt4b",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdfsdf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:51 PM"
+  },
+  {
+    "id": "fnSknP0QFaCdeLa",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:51 PM"
+  },
+  {
+    "id": "fnSitFrWbgK0p4g",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:45 PM"
+  },
+  {
+    "id": "fnSipbmu7DswgMV",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:45 PM"
+  },
+  {
+    "id": "fnSa42IFwlKszR3",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "asf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:22 PM"
+  },
+  {
+    "id": "fnSaO2Elm3jmpWG",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "jklkl",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:21 PM"
+  },
+  {
+    "id": "fnSaMRhQmphXsB0",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "fdf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:21 PM"
+  },
+  {
+    "id": "fnSalIfC1qlX8VY",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdfsf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:20 PM"
+  },
+  {
+    "id": "fnSakc8shT7x0fh",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:20 PM"
+  },
+  {
+    "id": "fnR9UMHl2tjZRTO",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "dsfgdfg",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:18 PM"
+  },
+  {
+    "id": "fnR9SylPKB3r3IQ",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "dg",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:18 PM"
+  },
+  {
+    "id": "fnR9m9jIXiLlHYA",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "dsd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:17 PM"
+  },
+  {
+    "id": "fnR8ZB6LQJDIOs1",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:16 PM"
+  },
+  {
+    "id": "fnR8GizPTT7fuZh",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sda",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:15 PM"
+  },
+  {
+    "id": "fnR8Bm5DPkvFgnH",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:14 PM"
+  },
+  {
+    "id": "fnR8vSTJFLxWR49",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:14 PM"
+  },
+  {
+    "id": "fnR8i7foym7jCeG",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdaf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:13 PM"
+  },
+  {
+    "id": "fnR8dMdjaqhoAmZ",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi John Doe, this is . You have been transferred to us. We will be in touch shortly.",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:13 PM"
+  },
+  {
+    "id": "fnR4DQrbejRValC",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "asdfasf",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 5:02 PM"
+  },
+  {
+    "id": "fnR1qA8wxTabHcM",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "f",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 4:52 PM"
+  },
+  {
+    "id": "fnR0hrkLod91BBT",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 4:49 PM"
+  },
+  {
+    "id": "fnRfZRKOzxW5QKZ",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:26 PM"
+  },
+  {
+    "id": "fnRfXIrypiY3NN7",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sa",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:26 PM"
+  },
+  {
+    "id": "fnRfL2tOSLNHXqc",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "dd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:25 PM"
+  },
+  {
+    "id": "fnRffYi9ZDwzkHA",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:24 PM"
+  },
+  {
+    "id": "fnReU5a6b2Wrcpk",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:23 PM"
+  },
+  {
+    "id": "fnRefGvYoYOnu9K",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "f",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:21 PM"
+  },
+  {
+    "id": "fnRdmxbtLvRJAB8",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:18 PM"
+  },
+  {
+    "id": "fnRcineQHEz4oLE",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "ff",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:15 PM"
+  },
+  {
+    "id": "fnRbCissSM3wGQd",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "f",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:13 PM"
+  },
+  {
+    "id": "fnRaxvyi1XmDvmt",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "f",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:09 PM"
+  },
+  {
+    "id": "fnQ98cGFDPBMzWp",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "s",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:08 PM"
+  },
+  {
+    "id": "fnQ9XA6Aj0Xxyor",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "s",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:08 PM"
+  },
+  {
+    "id": "fnQ9UbjXCMc2yKq",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "2d",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:07 PM"
+  },
+  {
+    "id": "fnQ9pSNxfoek3js",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ddd",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 2:06 PM"
+  },
+  {
+    "id": "fnQ6GHMxMOPd9uw",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "t",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 1:57 PM"
+  },
+  {
+    "id": "fnQ6fQO2SKSoWOO",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "tt",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 1:56 PM"
+  },
+  {
+    "id": "fnQ5S4XeMiHjUo3",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "s",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 1:55 PM"
+  },
+  {
+    "id": "fnQ33oVWPUL3GBh",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "s",
+    "entityType": "MESSAGE",
+    "created": "10/27/24 1:49 PM"
+  },
+  {
+    "id": "fmI1F5VKtA6Yb2M",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi Idan",
+    "entityType": "MESSAGE",
+    "created": "10/18/24 7:50 AM"
+  },
+  {
+    "id": "fl9MXsr3OwVDLDW",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "j",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:38 PM"
+  },
+  {
+    "id": "fl9MRa03VIVI79r",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:38 PM"
+  },
+  {
+    "id": "fl9MrJ1Hmjx7hps",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "yeys",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:37 PM"
+  },
+  {
+    "id": "fl9MkDEDNYLNB4c",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "asdasd",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:36 PM"
+  },
+  {
+    "id": "fl9MhEF35xbnGEo",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "asdads",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:36 PM"
+  },
+  {
+    "id": "fl9Mf3EWlq4FSLV",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sss",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:36 PM"
+  },
+  {
+    "id": "fl9L8OIKUcrF6vN",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "ss",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:36 PM"
+  },
+  {
+    "id": "fl9L4iNdNdLROx5",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "asd",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:35 PM"
+  },
+  {
+    "id": "fl9LNpup6J6IOCk",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ttt",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:35 PM"
+  },
+  {
+    "id": "fl9LmGCsAXnZVBo",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "2",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:33 PM"
+  },
+  {
+    "id": "fl9LjLsAEUGdnul",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "1",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:33 PM"
+  },
+  {
+    "id": "fl9LeMcHTFLu2ZN",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "כ",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:33 PM"
+  },
+  {
+    "id": "fl9Lbl4FR6qurao",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "יככ",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:33 PM"
+  },
+  {
+    "id": "fl9K4vFHKrkNh1n",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "אא",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:32 PM"
+  },
+  {
+    "id": "fl9K2jfLQyEja4v",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "כ",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:32 PM"
+  },
+  {
+    "id": "fl9KQ286xPu3j3R",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "כ",
+    "entityType": "MESSAGE",
+    "created": "10/13/24 3:32 PM"
+  },
+  {
+    "id": "flNg0jQPUy7Bz9V",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Note 1",
+    "entityType": "NOTE",
+    "created": "10/10/24 3:57 PM"
+  },
+  {
+    "id": "flEhLvdXxAlZXEW",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "https://localhost/sales/chat/e2WBpXIgiaplZKB#/sales/chat/e2WBpXIgiaplZKB?chatHubs=eQTK7DWvM5Qcj45&startDate=10/09/24&endDate=10/09/24",
+    "entityType": "MESSAGE",
+    "created": "10/09/24 11:20 AM"
+  },
+  {
+    "id": "flD8oC50BD7im43",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Test",
+    "entityType": "MESSAGE",
+    "created": "10/09/24 10:51 AM"
+  },
+  {
+    "id": "fhSmNWguNIZX3zG",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdafasdf",
+    "entityType": "MESSAGE",
+    "created": "09/08/24 10:34 AM"
+  },
+  {
+    "id": "fhixDWL3vRSEmjO",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "Hi John Doe! Please use the following link to pay your invoice. Thank you! - https://dev.pckg.ai/Y5vbVGxv",
+    "entityType": "MESSAGE",
+    "created": "09/03/24 4:30 PM"
+  },
+  {
+    "id": "ffsftOVLdfWAYpW",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "Hi John Doe! Please use the following link to pay your invoice. Thank you! - https://dev.pckg.ai/bdQeGuGVc",
+    "entityType": "MESSAGE",
+    "created": "08/19/24 12:36 PM"
+  },
+  {
+    "id": "ffllwyJvsTAIXFJ",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "t",
+    "entityType": "MESSAGE",
+    "created": "08/18/24 2:38 PM"
+  },
+  {
+    "id": "fcNCwWulHJh5voO",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Thank you for reaching out. Our team is here to assist you with any questions or concerns regarding your order or delivery. Please feel free to contact us at 1-866-787-7931 for further assistance.",
+    "entityType": "MESSAGE",
+    "created": "07/28/24 4:27 PM"
+  },
+  {
+    "id": "e9uQk0epxJ3mike",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "test",
+    "entityType": "MESSAGE",
+    "created": "07/01/24 12:27 PM"
+  },
+  {
+    "id": "e8OuXsVhQdx39qz",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "https://app.dev.package.ai/dev1/#/app/general_settings?tab=USERS&h=all&d=1717922082399general_settings?tab=USERS&h=all&d=1717922082399",
+    "entityType": "MESSAGE",
+    "created": "06/25/24 9:38 PM"
+  },
+  {
+    "id": "e8Oo0uoKystETAz",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Thank you for reaching out. Our team is here to assist you with any questions or concerns regarding your order or delivery. Please feel free to contact us at 1-866-787-7931 for further assistance.",
+    "entityType": "MESSAGE",
+    "created": "06/25/24 9:20 PM"
+  },
+  {
+    "id": "e8MVm9H9e2toOUp",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "I apologize for any inconvenience. If you have any questions or need assistance, please feel free to contact us at 1-866-787-7931. We are here to help.",
+    "entityType": "MESSAGE",
+    "created": "06/25/24 4:37 PM"
+  },
+  {
+    "id": "e8LH7IAEZCGn5eo",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Iapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.OurteamisreadytosIapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.OurteamisreadytosIapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.OurteamisreadytosIapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.OurteamisreadytosIapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.Ourteamisreadytos",
+    "entityType": "MESSAGE",
+    "created": "06/25/24 12:46 PM"
+  },
+  {
+    "id": "e8EdifswmhJRDK8",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "I apologize for any inconvenience. Please rest assured that we are here to assist you with any questions or concerns you may have regarding your order or delivery. Our team is ready to support you every step of the way.",
+    "entityType": "MESSAGE",
+    "created": "06/24/24 12:53 PM"
+  },
+  {
+    "id": "e8Dv8DEvsKQstX5",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Certainly! Please let me know how I can assist you further.",
+    "entityType": "MESSAGE",
+    "created": "06/24/24 10:40 AM"
+  },
+  {
+    "id": "e8Duf1GFbFkgHHG",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "06/24/24 10:35 AM"
+  },
+  {
+    "id": "e8DqU2OLlMoS6Gb",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Understood. Thank you for letting me know. I will wait for further instructions.",
+    "entityType": "MESSAGE",
+    "created": "06/24/24 10:24 AM"
+  },
+  {
+    "id": "e8w7ALBtErRamL7",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi John Doe, this is . You have been transferred to us. We will be in touch shortly.",
+    "entityType": "MESSAGE",
+    "created": "06/23/24 2:19 PM"
+  },
+  {
+    "id": "e8v2AoJRFf5PA8N",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "www.localhost:8080/#/sales/chat/e5m05KdNGFhMbd7?chatHubs=eJ5L1zWles395Xb&startDate=06/06/24&endDate=06/23/24",
+    "entityType": "MESSAGE",
+    "created": "06/23/24 10:52 AM"
+  },
+  {
+    "id": "e8v2yhU90dfRskt",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "http://localhost:8080/#/sales/chat/e5m05KdNGFhMbd7?chatHubs=eJ5L1zWles395Xb&startDate=06/06/24&endDate=06/23/24",
+    "entityType": "MESSAGE",
+    "created": "06/23/24 10:52 AM"
+  },
+  {
+    "id": "e7Xxka6OBxcIhz4",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ff",
+    "entityType": "MESSAGE",
+    "created": "06/18/24 9:01 PM"
+  },
+  {
+    "id": "e7UDnbwKI527QWR",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj v sdaf sdfjh sdakj sakj v sdaf sdfjh sdakj sakjsdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj",
+    "entityType": "MESSAGE",
+    "created": "06/18/24 11:46 AM"
+  },
+  {
+    "id": "e7Un1Y6fMcL9GgR",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdsd",
+    "entityType": "MESSAGE",
+    "created": "06/18/24 10:59 AM"
+  },
+  {
+    "id": "e7UnTwtm3AcBuAF",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdsd",
+    "entityType": "MESSAGE",
+    "created": "06/18/24 10:58 AM"
+  },
+  {
+    "id": "e7RaMSTsV41s8kQ",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "06/18/24 12:45 AM"
+  },
+  {
+    "id": "e7Ravtbw9aQIJHg",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "06/18/24 12:44 AM"
+  },
+  {
+    "id": "e7Q8mzwSWdp6g7E",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "asdf sf sf sf s\nf safsadfl slkfj klsjf lajsfj sklfj alkf",
+    "entityType": "MESSAGE",
+    "created": "06/18/24 12:38 AM"
+  },
+  {
+    "id": "e7PE8XjWcKjGcVT",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to yo\nu as soon as possible during the next business day.",
+    "entityType": "MESSAGE",
+    "created": "06/17/24 7:56 PM"
+  },
+  {
+    "id": "e7PEFlVAFSrS8Ic",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to yo\nu as soon as possible during the next business day.",
+    "entityType": "MESSAGE",
+    "created": "06/17/24 7:55 PM"
+  },
+  {
+    "id": "e7O4N7VGCGhGBX3",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "web inquiry template!",
+    "entityType": "MESSAGE",
+    "created": "06/17/24 6:04 PM"
+  },
+  {
+    "id": "e7O4N7bpTfiNfGz",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "06/17/24 6:04 PM"
+  },
+  {
+    "id": "e7O1GSFLeS4Fwzg",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to you as soon as possible during the next business day.",
+    "entityType": "MESSAGE",
+    "created": "06/17/24 5:55 PM"
+  },
+  {
+    "id": "e7O1GQrSd8KaSHe",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "test test",
+    "entityType": "MESSAGE",
+    "created": "06/17/24 5:55 PM"
+  },
+  {
+    "id": "e7N3Xq1zgG5fhbl",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "sdaf3df",
+    "entityType": "NOTE",
+    "created": "06/17/24 2:51 PM"
+  },
+  {
+    "id": "e7H186BWH42W3pN",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "test3",
+    "entityType": "NOTE",
+    "created": "06/16/24 7:39 PM"
+  },
+  {
+    "id": "e7H1LhPOoQ18QYc",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "test2",
+    "entityType": "NOTE",
+    "created": "06/16/24 7:38 PM"
+  },
+  {
+    "id": "e7H1CDSxOrkvinf",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "test",
+    "entityType": "NOTE",
+    "created": "06/16/24 7:37 PM"
+  },
+  {
+    "id": "e24UHh1Ol9NZNDs",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "testtt",
+    "entityType": "NOTE",
+    "created": "05/09/24 5:30 PM"
+  },
+  {
+    "id": "e24nOD8yCAT4iqU",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 3:48 PM"
+  },
+  {
+    "id": "e24lRVpUyPM8V6U",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "f",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 3:42 PM"
+  },
+  {
+    "id": "e24lEkxDsOY9SWb",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 3:42 PM"
+  },
+  {
+    "id": "e24lqiwbsHzuBdH",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "s",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 3:41 PM"
+  },
+  {
+    "id": "e24kV37YPbtZEvi",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 3:39 PM"
+  },
+  {
+    "id": "e24kQiqkS6qcO28",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "dd",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 3:39 PM"
+  },
+  {
+    "id": "e23jWVb5mjSUUfo",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 12:25 PM"
+  },
+  {
+    "id": "e23eKbc8g9Qf87Z",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 12:09 PM"
+  },
+  {
+    "id": "e23ewI8QZS72KpK",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "dsd",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 12:09 PM"
+  },
+  {
+    "id": "e226wccLuP4pRtq",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "test",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 11:44 AM"
+  },
+  {
+    "id": "e225yZxGQ5di4xk",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "cxv",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 11:41 AM"
+  },
+  {
+    "id": "e2249OBm58llDNP",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 11:40 AM"
+  },
+  {
+    "id": "e22Xmf5lFbse0Qh",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "test",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 11:16 AM"
+  },
+  {
+    "id": "e22XdzzWnA4EZj0",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "122121",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 11:15 AM"
+  },
+  {
+    "id": "e22WxuAHrtexINm",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "ddda",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 11:13 AM"
+  },
+  {
+    "id": "e22RqFdfmZ8UGOR",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "hjsdkf",
+    "entityType": "MESSAGE",
+    "created": "05/09/24 10:57 AM"
+  },
+  {
+    "id": "e2XZJh05MwHw8iz",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "dfs",
+    "entityType": "MESSAGE",
+    "created": "05/08/24 7:28 PM"
+  },
+  {
+    "id": "e2XZsvLXVrdJ2vr",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "dd",
+    "entityType": "MESSAGE",
+    "created": "05/08/24 7:27 PM"
+  },
+  {
+    "id": "e2XZqtVhiTMF7X8",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "d",
+    "entityType": "MESSAGE",
+    "created": "05/08/24 7:27 PM"
+  },
+  {
+    "id": "e2WBpX5FEu8BNCU",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "fds ksadjfkl sjadfklj sakldfj aslkjf kljsf klasj flkas fklsa fkljs flkjasf",
+    "entityType": "MESSAGE",
+    "created": "05/08/24 3:02 PM"
+  },
+  {
+    "id": "e2WzMbNuJqvUq5C",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "dsf sdfsa ff fdjs kflk sdfkl sdflk sflk klf kljf lkjsdf kjs fdkls fkljsdfkljskf klsf klsjf lkjsafl. ksjdflkj sflkj aklfj alksjfklsdfj kasjf kljf kj sfkl askfj asklf",
+    "entityType": "MESSAGE",
+    "created": "05/08/24 2:57 PM"
+  },
+  {
+    "id": "e2V4PmLke1KirhP",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "Hi flon, this is . You have been transferred to us. We will be in touch shortly.",
+    "entityType": "MESSAGE",
+    "created": "05/08/24 1:21 PM"
+  },
+  {
+    "id": "e2V4tXMcgqYHA42",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "This message was deleted",
+    "entityType": "MESSAGE",
+    "created": "05/08/24 1:20 PM"
+  }
+]
