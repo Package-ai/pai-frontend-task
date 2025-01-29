@@ -1,2496 +1,2502 @@
 [
   {
-    "id": "fvvXHaJHtHQuvwB",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_0",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I need to cancel my order.",
     "entityType": "MESSAGE",
-    "created": "12/29/24 1:51 PM"
+    "created": "01/01/24 12:00 AM"
   },
   {
-    "id": "fuT74s9voousRg0",
+    "id": "msg_1",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "We appreciate your feedback!",
+    "entityType": "MESSAGE",
+    "created": "01/01/24 01:00 AM"
+  },
+  {
+    "id": "msg_2",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "J",
+    "text": "Hi, I need help with my order.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 1:23 PM"
+    "created": "01/01/24 02:00 AM"
   },
   {
-    "id": "fuT2XJE1fqnqe4z",
+    "id": "msg_3",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
+    "initials": "A",
+    "text": "We appreciate your feedback!",
+    "entityType": "MESSAGE",
+    "created": "01/01/24 03:00 AM"
+  },
+  {
+    "id": "msg_4",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 1:08 PM"
+    "created": "01/01/24 04:00 AM"
   },
   {
-    "id": "fuS97MQ4VwfDvzB",
+    "id": "msg_5",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I'm checking the details now, one moment please.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 10:19 AM"
+    "created": "01/01/24 05:00 AM"
   },
   {
-    "id": "fuS97Lg29uFIi5R",
+    "id": "msg_6",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "This message was deleted",
+    "from": "Jane Smith",
+    "initials": "A",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 10:19 AM"
+    "created": "01/01/24 06:00 AM"
   },
   {
-    "id": "fuS8M1uuFe7EnC4",
+    "id": "msg_7",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to you as soon as possible during the next business day.",
+    "text": "Your refund request has been initiated.",
+    "entityType": "MESSAGE",
+    "created": "01/01/24 07:00 AM"
+  },
+  {
+    "id": "msg_8",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 10:14 AM"
+    "created": "01/01/24 08:00 AM"
   },
   {
-    "id": "fuNnIuK1nKLLR0z",
+    "id": "msg_9",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Let us know if you need further assistance.",
     "entityType": "MESSAGE",
-    "created": "12/23/24 3:54 PM"
+    "created": "01/01/24 09:00 AM"
   },
   {
-    "id": "fuNnIsSga34BG4H",
+    "id": "msg_10",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "This message was deleted",
+    "from": "Alex Johnson",
+    "initials": "A",
+    "text": "Hi, I need help with my order.",
     "entityType": "MESSAGE",
-    "created": "12/23/24 3:54 PM"
+    "created": "01/01/24 10:00 AM"
   },
   {
-    "id": "fuNm7pdNJqMwPUq",
+    "id": "msg_11",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "12/23/24 3:52 PM"
+    "created": "01/01/24 11:00 AM"
   },
   {
-    "id": "fuNm7niIliCl8aD",
+    "id": "msg_12",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "This message was deleted",
+    "initials": "A",
+    "text": "The tracking number is not updating.",
     "entityType": "MESSAGE",
-    "created": "12/23/24 3:52 PM"
+    "created": "01/01/24 12:00 PM"
   },
   {
-    "id": "fssV3bv3wOojzcH",
+    "id": "msg_13",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "test1",
+    "text": "Let us know if you need further assistance.",
     "entityType": "MESSAGE",
-    "created": "12/04/24 12:00 PM"
+    "created": "01/01/24 01:00 PM"
   },
   {
-    "id": "fvvXHaJHtHQuvwB",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_14",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "How do I return an item?",
     "entityType": "MESSAGE",
-    "created": "12/29/24 1:51 PM"
+    "created": "01/01/24 02:00 PM"
   },
   {
-    "id": "fuT74s9voousRg0",
+    "id": "msg_15",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I will notify you once we receive an update.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 1:23 PM"
+    "created": "01/01/24 03:00 PM"
   },
   {
-    "id": "fuT2XJE1fqnqe4z",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "id": "msg_16",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "Can I modify my order before it ships?",
     "entityType": "MESSAGE",
-    "created": "12/24/24 1:08 PM"
+    "created": "01/01/24 04:00 PM"
   },
   {
-    "id": "fuS97MQ4VwfDvzB",
+    "id": "msg_17",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 10:19 AM"
+    "created": "01/01/24 05:00 PM"
   },
   {
-    "id": "fuS97Lg29uFIi5R",
+    "id": "msg_18",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "This message was deleted",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 10:19 AM"
+    "created": "01/01/24 06:00 PM"
   },
   {
-    "id": "fuS8M1uuFe7EnC4",
+    "id": "msg_19",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to you as soon as possible during the next business day.",
+    "text": "Let us know if you need further assistance.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 10:14 AM"
+    "created": "01/01/24 07:00 PM"
   },
   {
-    "id": "fuNnIuK1nKLLR0z",
+    "id": "msg_20",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
+    "initials": "A",
+    "text": "I have not received my package yet.",
+    "entityType": "MESSAGE",
+    "created": "01/01/24 08:00 PM"
+  },
+  {
+    "id": "msg_21",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "We are sorry for the delay, let me check with our delivery team.",
     "entityType": "MESSAGE",
-    "created": "12/23/24 3:54 PM"
+    "created": "01/01/24 09:00 PM"
   },
   {
-    "id": "fuNnIsSga34BG4H",
+    "id": "msg_22",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "This message was deleted",
+    "initials": "X",
+    "text": "Hi, I need help with my order.",
     "entityType": "MESSAGE",
-    "created": "12/23/24 3:54 PM"
+    "created": "01/01/24 10:00 PM"
   },
   {
-    "id": "fuNm7pdNJqMwPUq",
+    "id": "msg_23",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "How can I assist you today?",
     "entityType": "MESSAGE",
-    "created": "12/23/24 3:52 PM"
+    "created": "01/01/24 11:00 PM"
   },
   {
-    "id": "fuNm7niIliCl8aD",
+    "id": "msg_24",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "This message was deleted",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "The tracking number is not updating.",
     "entityType": "MESSAGE",
-    "created": "12/23/24 3:52 PM"
+    "created": "01/02/24 12:00 AM"
   },
   {
-    "id": "fssV3bv3wOojzcH",
+    "id": "msg_25",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "test1",
+    "text": "I will escalate this to the relevant team.",
     "entityType": "MESSAGE",
-    "created": "12/04/24 12:00 PM"
+    "created": "01/02/24 01:00 AM"
   },
   {
-    "id": "fvvXPtmaETCtQfZ",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "id": "msg_26",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "J",
+    "text": "I was charged twice for my order.",
     "entityType": "MESSAGE",
-    "created": "12/29/24 1:51 PM"
+    "created": "01/02/24 02:00 AM"
   },
   {
-    "id": "fuS81ByIlkRDs1L",
+    "id": "msg_27",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "You can track your order using the following link.",
     "entityType": "MESSAGE",
-    "created": "12/24/24 10:15 AM"
+    "created": "01/02/24 03:00 AM"
   },
   {
-    "id": "fttbQdGs36SNvZD",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "sdf perets  sdf sadf +18555781332  asdf sadf",
+    "id": "msg_28",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "J",
+    "text": "Can I schedule a delivery at a specific time?",
     "entityType": "MESSAGE",
-    "created": "12/12/24 6:13 PM"
+    "created": "01/02/24 04:00 AM"
   },
   {
-    "id": "fttaa7RNDL2fCX4",
+    "id": "msg_29",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "sdf   sdf sadf +18555781332  asdf sadf",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "12/12/24 6:08 PM"
+    "created": "01/02/24 05:00 AM"
   },
   {
-    "id": "ftdaj71MBcUsLHe",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "sdf {<!-- -->{customerLastName}}  sdf sadf {<!-- -->{locationPhone}}  asdf sadf",
+    "id": "msg_30",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "I have not received my package yet.",
     "entityType": "MESSAGE",
-    "created": "12/10/24 3:12 PM"
+    "created": "01/02/24 06:00 AM"
   },
   {
-    "id": "fst4GNzDwepUxu3",
+    "id": "msg_31",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "this is line 1\n\nthis is line 2\n\nthis is line 3\n\nRotem Perets Rotem",
+    "text": "Your request has been processed successfully.",
     "entityType": "MESSAGE",
-    "created": "12/04/24 3:38 PM"
+    "created": "01/02/24 07:00 AM"
   },
   {
-    "id": "fsdvkH1mYYKQK6s",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_32",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
     "initials": "A",
-    "text": "SDFSAFRotem",
+    "text": "Can I get a refund?",
     "entityType": "MESSAGE",
-    "created": "12/02/24 10:52 AM"
+    "created": "01/02/24 08:00 AM"
   },
   {
-    "id": "frlU8Ob16fHBwfM",
+    "id": "msg_33",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "Hi Rotem! Please use the following link to pay your invoice. Thank you! - https://dev.pckg.ai/binntuJx0",
+    "text": "I'm checking the details now, one moment please.",
     "entityType": "MESSAGE",
-    "created": "11/25/24 8:16 AM"
+    "created": "01/02/24 09:00 AM"
   },
   {
-    "id": "frlUiDWDUWbKxRd",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "Hi Rotem! Please use the following link to pay your invoice. Thank you! - https://dev.pckg.ai/HlzEzbfK",
+    "id": "msg_34",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "What is your refund policy?",
     "entityType": "MESSAGE",
-    "created": "11/25/24 8:14 AM"
+    "created": "01/02/24 10:00 AM"
   },
   {
-    "id": "fqxyENZJxMt5CDI",
+    "id": "msg_35",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I'm checking the details now, one moment please.",
     "entityType": "MESSAGE",
-    "created": "11/18/24 3:55 PM"
+    "created": "01/02/24 11:00 AM"
   },
   {
-    "id": "fqxyEMbcmEuhaL2",
+    "id": "msg_36",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "external",
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "11/18/24 3:55 PM"
+    "created": "01/02/24 12:00 PM"
   },
   {
-    "id": "fqv8dTMYbAy9Q9i",
+    "id": "msg_37",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "You can track your order using the following link.",
     "entityType": "MESSAGE",
-    "created": "11/18/24 11:23 AM"
+    "created": "01/02/24 01:00 PM"
   },
   {
-    "id": "fqv8dRPZH7LezN9",
+    "id": "msg_38",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "bottom",
+    "from": "Alex Johnson",
+    "initials": "A",
+    "text": "The tracking number is not updating.",
     "entityType": "MESSAGE",
-    "created": "11/18/24 11:23 AM"
+    "created": "01/02/24 02:00 PM"
   },
   {
-    "id": "fqv7Qd7jpoUcBtt",
+    "id": "msg_39",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to you as soon as possible during the next business day.",
+    "text": "I will notify you once we receive an update.",
     "entityType": "MESSAGE",
-    "created": "11/18/24 11:22 AM"
+    "created": "01/02/24 03:00 PM"
   },
   {
-    "id": "fqv7QcEB9gbhYXu",
+    "id": "msg_40",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "bottom",
+    "initials": "X",
+    "text": "I am experiencing an issue with the website.",
     "entityType": "MESSAGE",
-    "created": "11/18/24 11:22 AM"
+    "created": "01/02/24 04:00 PM"
   },
   {
-    "id": "fpG572QuRUq9SnZ",
+    "id": "msg_41",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "How can I assist you today?",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:54 PM"
+    "created": "01/02/24 05:00 PM"
   },
   {
-    "id": "fpG5700M2mwKinN",
+    "id": "msg_42",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "1",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "What is your refund policy?",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:54 PM"
+    "created": "01/02/24 06:00 PM"
   },
   {
-    "id": "fpG5WzedjYyjhF6",
+    "id": "msg_43",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:53 PM"
+    "created": "01/02/24 07:00 PM"
   },
   {
-    "id": "fpG5WxnpPQ1aW1v",
+    "id": "msg_44",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "2",
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:53 PM"
+    "created": "01/02/24 08:00 PM"
   },
   {
-    "id": "fpG2ZYz14VMrtj7",
+    "id": "msg_45",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I will notify you once we receive an update.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:44 PM"
+    "created": "01/02/24 09:00 PM"
   },
   {
-    "id": "fpG2ZXH7PYMD7di",
+    "id": "msg_46",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "2",
+    "text": "I need to cancel my order.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:44 PM"
+    "created": "01/02/24 10:00 PM"
   },
   {
-    "id": "fpGZTgm2tyUwN64",
+    "id": "msg_47",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I apologize for the inconvenience, we're working to resolve this.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:34 PM"
+    "created": "01/02/24 11:00 PM"
   },
   {
-    "id": "fpGZTftFVebHeDZ",
+    "id": "msg_48",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "1",
+    "text": "How can I contact customer support?",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:34 PM"
+    "created": "01/03/24 12:00 AM"
   },
   {
-    "id": "fpGXliQIZWAJE3i",
+    "id": "msg_49",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Is there anything else I can assist you with?",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:26 PM"
+    "created": "01/03/24 01:00 AM"
   },
   {
-    "id": "fpGXlhWyxqKDUpj",
+    "id": "msg_50",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "2-3",
+    "text": "I need to cancel my order.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:26 PM"
+    "created": "01/03/24 02:00 AM"
   },
   {
-    "id": "fpGNPjZC1MPQ5pk",
+    "id": "msg_51",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I will notify you once we receive an update.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 3:57 PM"
+    "created": "01/03/24 03:00 AM"
   },
   {
-    "id": "fpGNPg0BcNHCLPd",
+    "id": "msg_52",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "2-2",
+    "from": "Jane Smith",
+    "initials": "A",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 3:57 PM"
+    "created": "01/03/24 04:00 AM"
   },
   {
-    "id": "fpGFXx6HVYnrNW8",
+    "id": "msg_53",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Please provide more details so I can assist you better.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 3:33 PM"
+    "created": "01/03/24 05:00 AM"
   },
   {
-    "id": "fpGFXwo1LHIitqP",
+    "id": "msg_54",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "1-1",
+    "initials": "X",
+    "text": "Do you offer gift wrapping services?",
     "entityType": "MESSAGE",
-    "created": "11/11/24 3:33 PM"
+    "created": "01/03/24 06:00 AM"
   },
   {
-    "id": "fpGwL31Z5Lx5lR8",
+    "id": "msg_55",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I will notify you once we receive an update.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 3:05 PM"
+    "created": "01/03/24 07:00 AM"
   },
   {
-    "id": "fpGwL2DfvavIZoL",
+    "id": "msg_56",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "from git",
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "The item arrived damaged.",
+    "entityType": "MESSAGE",
+    "created": "01/03/24 08:00 AM"
+  },
+  {
+    "id": "msg_57",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Customer Service",
+    "initials": "A",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 3:05 PM"
+    "created": "01/03/24 09:00 AM"
   },
   {
-    "id": "foXemddNWOvtMF5",
+    "id": "msg_58",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "test",
+    "initials": "X",
+    "text": "Can I modify my order before it ships?",
     "entityType": "MESSAGE",
-    "created": "11/05/24 2:51 PM"
+    "created": "01/03/24 10:00 AM"
   },
   {
-    "id": "foPEGgtGPg1pIjq",
+    "id": "msg_59",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "+972544302026",
+    "text": "I understand your concern, let me check that for you.",
     "entityType": "MESSAGE",
-    "created": "11/04/24 2:44 PM"
+    "created": "01/03/24 11:00 AM"
   },
   {
-    "id": "feYkUUbZUgr1TL6",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_60",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "Hi Dreyfus",
+    "text": "Can I get a refund?",
     "entityType": "MESSAGE",
-    "created": "08/15/24 1:22 PM"
+    "created": "01/03/24 12:00 PM"
   },
   {
-    "id": "fvZv4aW9iqj6fsd",
+    "id": "msg_61",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "sadfasf",
+    "text": "We appreciate your feedback!",
+    "entityType": "MESSAGE",
+    "created": "01/03/24 01:00 PM"
+  },
+  {
+    "id": "msg_62",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "Can I schedule a delivery at a specific time?",
     "entityType": "MESSAGE",
-    "created": "01/02/25 11:56 AM"
+    "created": "01/03/24 02:00 PM"
   },
   {
-    "id": "fpHeaKdFUCYLQkW",
+    "id": "msg_63",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "How can I assist you today?",
     "entityType": "MESSAGE",
-    "created": "11/11/24 5:18 PM"
+    "created": "01/03/24 03:00 PM"
   },
   {
-    "id": "fpHeaIkla8057O5",
+    "id": "msg_64",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Jane Smith",
     "initials": "J",
-    "text": "1 > 2 >1 >h",
+    "text": "What is your refund policy?",
     "entityType": "MESSAGE",
-    "created": "11/11/24 5:18 PM"
+    "created": "01/03/24 04:00 PM"
   },
   {
-    "id": "fpHdFF2VCFxqGm9",
+    "id": "msg_65",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I will send you an email confirmation shortly.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 5:17 PM"
+    "created": "01/03/24 05:00 PM"
   },
   {
-    "id": "fpHdFE5DbQJoZUz",
+    "id": "msg_66",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "h > 1",
+    "text": "Do you have this item in stock?",
     "entityType": "MESSAGE",
-    "created": "11/11/24 5:17 PM"
+    "created": "01/03/24 06:00 PM"
   },
   {
-    "id": "fpGUKly6bF8lRiO",
+    "id": "msg_67",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Your issue has been resolved.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:18 PM"
+    "created": "01/03/24 07:00 PM"
   },
   {
-    "id": "fpGUKkcDz5PfBR6",
+    "id": "msg_68",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "home > 1",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "Can I change my delivery address?",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:18 PM"
+    "created": "01/03/24 08:00 PM"
   },
   {
-    "id": "fpGPIVXqHebUhfB",
+    "id": "msg_69",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Please provide more details so I can assist you better.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:03 PM"
+    "created": "01/03/24 09:00 PM"
   },
   {
-    "id": "fpGPIUxfLF3LfxJ",
+    "id": "msg_70",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "home to page1",
+    "initials": "X",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 4:03 PM"
+    "created": "01/03/24 10:00 PM"
   },
   {
-    "id": "fpGuN2nxPBFcGHb",
+    "id": "msg_71",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I have updated your details in our system.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 2:59 PM"
+    "created": "01/03/24 11:00 PM"
   },
   {
-    "id": "fpGuN1LlqZRRnNk",
+    "id": "msg_72",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "start in page 1, send in page 2",
+    "from": "Alex Johnson",
+    "initials": "A",
+    "text": "I have not received my package yet.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 2:59 PM"
+    "created": "01/04/24 12:00 AM"
   },
   {
-    "id": "fpGuCKe9qjM2BmD",
+    "id": "msg_73",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "You can track your order using the following link.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 2:58 PM"
+    "created": "01/04/24 01:00 AM"
   },
   {
-    "id": "fpGuCJuwJrfkyje",
+    "id": "msg_74",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "start in home send in page 1",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 2:58 PM"
+    "created": "01/04/24 02:00 AM"
   },
   {
-    "id": "fpGurNJvbcv6U1V",
+    "id": "msg_75",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Please share your order number for verification.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 2:57 PM"
+    "created": "01/04/24 03:00 AM"
   },
   {
-    "id": "fpGurMNJ1WuVDKf",
+    "id": "msg_76",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "start in home send in home",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "11/11/24 2:57 PM"
+    "created": "01/04/24 04:00 AM"
   },
   {
-    "id": "fpxCXSrjvmcD2fz",
+    "id": "msg_77",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "SDFSAFJohn Doe",
+    "text": "We appreciate your feedback!",
     "entityType": "MESSAGE",
-    "created": "11/10/24 10:44 AM"
+    "created": "01/04/24 05:00 AM"
   },
   {
-    "id": "foXfuFzSuUTXyHw",
+    "id": "msg_78",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "test",
+    "from": "Jane Smith",
+    "initials": "A",
+    "text": "Can I schedule a delivery at a specific time?",
     "entityType": "MESSAGE",
-    "created": "11/05/24 2:55 PM"
+    "created": "01/04/24 06:00 AM"
   },
   {
-    "id": "foOOWstYNnPxE3K",
+    "id": "msg_79",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "tsdfs as asd r",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "11/04/24 12:05 PM"
+    "created": "01/04/24 07:00 AM"
   },
   {
-    "id": "foIBVmVGXBjuuPL",
+    "id": "msg_80",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "sdasda sda",
+    "initials": "A",
+    "text": "Hi, I need help with my order.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 4:18 PM"
+    "created": "01/04/24 08:00 AM"
   },
   {
-    "id": "foHUzQXzHauyMrr",
+    "id": "msg_81",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I'm checking the details now, one moment please.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 2:05 PM"
+    "created": "01/04/24 09:00 AM"
   },
   {
-    "id": "foHUzP16rrtZl94",
+    "id": "msg_82",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "323223",
+    "text": "Can I change my delivery address?",
     "entityType": "MESSAGE",
-    "created": "11/03/24 2:05 PM"
+    "created": "01/04/24 10:00 AM"
   },
   {
-    "id": "foHUrjHQry1vFlA",
+    "id": "msg_83",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Please provide more details so I can assist you better.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 2:04 PM"
+    "created": "01/04/24 11:00 AM"
   },
   {
-    "id": "foHUriuksu93nRX",
+    "id": "msg_84",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sdfasdf222",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "Hi, I need help with my order.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 2:04 PM"
+    "created": "01/04/24 12:00 PM"
   },
   {
-    "id": "foHUbr02pmBO9TG",
+    "id": "msg_85",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I understand your concern, let me check that for you.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 2:04 PM"
+    "created": "01/04/24 01:00 PM"
   },
   {
-    "id": "foHUbrfbJMs8096",
+    "id": "msg_86",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sdfasd 222",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "What is your refund policy?",
     "entityType": "MESSAGE",
-    "created": "11/03/24 2:04 PM"
+    "created": "01/04/24 02:00 PM"
   },
   {
-    "id": "foHuKiK1EsydzBm",
+    "id": "msg_87",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "How can I assist you today?",
     "entityType": "MESSAGE",
-    "created": "11/03/24 12:45 PM"
+    "created": "01/04/24 03:00 PM"
   },
   {
-    "id": "foHuKhR1V1uYazr",
+    "id": "msg_88",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "sdfasf323223",
+    "initials": "X",
+    "text": "The live chat is not working.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 12:45 PM"
+    "created": "01/04/24 04:00 PM"
   },
   {
-    "id": "foHusE8rRFtSws5",
+    "id": "msg_89",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "I'm checking the details now, one moment please.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 12:44 PM"
+    "created": "01/04/24 05:00 PM"
   },
   {
-    "id": "foHusD7PWFCOlep",
+    "id": "msg_90",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "asas121",
+    "from": "Alex Johnson",
+    "initials": "A",
+    "text": "When will my package arrive?",
     "entityType": "MESSAGE",
-    "created": "11/03/24 12:44 PM"
+    "created": "01/04/24 06:00 PM"
   },
   {
-    "id": "foG5032WGhSUMZL",
+    "id": "msg_91",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 11:29 AM"
+    "created": "01/04/24 07:00 PM"
   },
   {
-    "id": "foG50205rgwjJyy",
+    "id": "msg_92",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sdf ssdf saf",
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "The tracking number is not updating.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 11:29 AM"
+    "created": "01/04/24 08:00 PM"
   },
   {
-    "id": "foG4vqnMzPs60XZ",
+    "id": "msg_93",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ONE OF OUR AGENTS WILL CONTINUE THIS CHAT SHORTLY.",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 11:24 AM"
+    "created": "01/04/24 09:00 PM"
   },
   {
-    "id": "foG4vpmljbcWfO8",
+    "id": "msg_94",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "sdf sdaf 1",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "11/03/24 11:24 AM"
+    "created": "01/04/24 10:00 PM"
   },
   {
-    "id": "fokZQYxapHidoRi",
+    "id": "msg_95",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "sadf sdf   sadf asf  sadf sa2",
+    "text": "We appreciate your feedback!",
     "entityType": "MESSAGE",
-    "created": "10/31/24 1:07 PM"
+    "created": "01/04/24 11:00 PM"
   },
   {
-    "id": "fokktsCjdUomown",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "sadf sdf   sadf asf  sadf sa",
+    "id": "msg_96",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "I need to cancel my order.",
     "entityType": "MESSAGE",
-    "created": "10/31/24 11:00 AM"
+    "created": "01/05/24 12:00 AM"
   },
   {
-    "id": "fogKonxup2F13lX",
+    "id": "msg_97",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "dfssfNYC  sdfasfJohn Doe",
+    "text": "Your request has been processed successfully.",
     "entityType": "MESSAGE",
-    "created": "10/30/24 11:36 PM"
+    "created": "01/05/24 01:00 AM"
   },
   {
-    "id": "fogJ2IPpB1yYXmC",
+    "id": "msg_98",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "I have not received my package yet.",
+    "entityType": "MESSAGE",
+    "created": "01/05/24 02:00 AM"
+  },
+  {
+    "id": "msg_99",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "sdasaf",
+    "text": "I have updated your details in our system.",
     "entityType": "MESSAGE",
-    "created": "10/30/24 11:35 PM"
+    "created": "01/05/24 03:00 AM"
   },
   {
-    "id": "fn6Y6Hausecg1L1",
+    "id": "msg_100",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Jane Smith",
     "initials": "J",
-    "text": "asd",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "10/29/24 4:31 PM"
+    "created": "01/05/24 04:00 AM"
   },
   {
-    "id": "fn6YYEidc30Xm3Z",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "saf",
+    "id": "msg_101",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "We appreciate your feedback!",
     "entityType": "MESSAGE",
-    "created": "10/29/24 4:30 PM"
+    "created": "01/05/24 05:00 AM"
   },
   {
-    "id": "fn6YFwOfR6V6t0S",
+    "id": "msg_102",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "sdf",
+    "initials": "X",
+    "text": "Do you offer gift wrapping services?",
     "entityType": "MESSAGE",
-    "created": "10/29/24 4:29 PM"
+    "created": "01/05/24 06:00 AM"
   },
   {
-    "id": "fn6Yx070aDTLg6v",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "fas",
+    "id": "msg_103",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Customer Service",
+    "initials": "A",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "10/29/24 4:29 PM"
+    "created": "01/05/24 07:00 AM"
   },
   {
-    "id": "fn6YkhVBGrZOTNl",
+    "id": "msg_104",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sdfasdf",
+    "from": "Jane Smith",
+    "initials": "A",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "10/29/24 4:28 PM"
+    "created": "01/05/24 08:00 AM"
   },
   {
-    "id": "fn6XBDxO8rLTyOT",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sfda",
+    "id": "msg_105",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "I will notify you once we receive an update.",
     "entityType": "MESSAGE",
-    "created": "10/29/24 4:26 PM"
+    "created": "01/05/24 09:00 AM"
   },
   {
-    "id": "fn6Xi0MUGCW5hWm",
+    "id": "msg_106",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Jane Smith",
     "initials": "J",
-    "text": "testttt",
+    "text": "The live chat is not working.",
     "entityType": "MESSAGE",
-    "created": "10/29/24 4:25 PM"
+    "created": "01/05/24 10:00 AM"
   },
   {
-    "id": "fnY94F4FBl6QXmk",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sd",
+    "id": "msg_107",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "I will notify you once we receive an update.",
     "entityType": "MESSAGE",
-    "created": "10/28/24 3:36 PM"
+    "created": "01/05/24 11:00 AM"
   },
   {
-    "id": "fnY9Z4R0tj25FTF",
+    "id": "msg_108",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "s",
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "How do I return an item?",
     "entityType": "MESSAGE",
-    "created": "10/28/24 3:36 PM"
+    "created": "01/05/24 12:00 PM"
   },
   {
-    "id": "fnTjCf3YPX8LEPz",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "push notifications",
+    "id": "msg_109",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "Your request has been processed successfully.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 8:59 PM"
+    "created": "01/05/24 01:00 PM"
   },
   {
-    "id": "fnTigZhHJge6cZd",
+    "id": "msg_110",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "e",
+    "initials": "A",
+    "text": "When will my package arrive?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 8:55 PM"
+    "created": "01/05/24 02:00 PM"
   },
   {
-    "id": "fnTh7QMorkjy75r",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "te",
+    "id": "msg_111",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "I understand your concern, let me check that for you.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 8:55 PM"
+    "created": "01/05/24 03:00 PM"
   },
   {
-    "id": "fnTaU78nJVLCAjZ",
+    "id": "msg_112",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "צדחד",
+    "initials": "X",
+    "text": "Can I get a refund?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 8:33 PM"
+    "created": "01/05/24 04:00 PM"
   },
   {
-    "id": "fnSE0cxDaW6Yabv",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "df",
+    "id": "msg_113",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:54 PM"
+    "created": "01/05/24 05:00 PM"
   },
   {
-    "id": "fnSEUEie7W8qOuV",
+    "id": "msg_114",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "kjnb",
+    "text": "I am experiencing an issue with the website.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:54 PM"
+    "created": "01/05/24 06:00 PM"
   },
   {
-    "id": "fnSCQUNzw098HHS",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "reter",
-    "entityType": "MESSAGE",
-    "created": "10/27/24 6:48 PM"
-  },
-  {
-    "id": "fnSCsjTTG9CPmIX",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "teastutut",
+    "id": "msg_115",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "I apologize for the inconvenience, we're working to resolve this.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:46 PM"
+    "created": "01/05/24 07:00 PM"
   },
   {
-    "id": "fnSCnJlPLMDbEnG",
+    "id": "msg_116",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "testu",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "I need to cancel my order.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:46 PM"
+    "created": "01/05/24 08:00 PM"
   },
   {
-    "id": "fnSCgJKXDkRhCPL",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "xcvbxcbv",
+    "id": "msg_117",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "I will send you an email confirmation shortly.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:46 PM"
+    "created": "01/05/24 09:00 PM"
   },
   {
-    "id": "fnSBLA8e7xGNOFX",
+    "id": "msg_118",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "fsaf asf asf sa f",
+    "initials": "A",
+    "text": "Do you have this item in stock?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:44 PM"
+    "created": "01/05/24 10:00 PM"
   },
   {
-    "id": "fnSBCmDEPMbUqK7",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "ntrtnnag sasad fasg",
+    "id": "msg_119",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Agent",
+    "initials": "A",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:44 PM"
+    "created": "01/05/24 11:00 PM"
   },
   {
-    "id": "fnSBtZOlIHMUi9J",
+    "id": "msg_120",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "tsagg",
+    "from": "Alex Johnson",
+    "initials": "A",
+    "text": "I am experiencing an issue with the website.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:43 PM"
+    "created": "01/06/24 12:00 AM"
   },
   {
-    "id": "fnSBkX0KPc4Zs60",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "xczvzx",
+    "id": "msg_121",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "Please share your order number for verification.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:43 PM"
+    "created": "01/06/24 01:00 AM"
   },
   {
-    "id": "fnSA3fg45kEXJin",
+    "id": "msg_122",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "sdf",
+    "text": "Do you offer gift wrapping services?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:42 PM"
+    "created": "01/06/24 02:00 AM"
   },
   {
-    "id": "fnSAZ1Gst3o7PQj",
+    "id": "msg_123",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "xcv",
-    "entityType": "MESSAGE",
-    "created": "10/27/24 6:42 PM"
-  },
-  {
-    "id": "fnSznehoYmDY113",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "asd",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:37 PM"
+    "created": "01/06/24 03:00 AM"
   },
   {
-    "id": "fnSzfaaEKDdNxQS",
+    "id": "msg_124",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "asdasd",
+    "initials": "A",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:36 PM"
+    "created": "01/06/24 04:00 AM"
   },
   {
-    "id": "fnSy7YHFwra0QL5",
+    "id": "msg_125",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "sdfasf",
-    "entityType": "MESSAGE",
-    "created": "10/27/24 6:36 PM"
-  },
-  {
-    "id": "fnSrjkOFF6jY8Fp",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "asd",
+    "text": "I will escalate this to the relevant team.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:12 PM"
+    "created": "01/06/24 05:00 AM"
   },
   {
-    "id": "fnSq3zImKn66xoe",
+    "id": "msg_126",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "asd",
+    "from": "Alex Johnson",
+    "initials": "A",
+    "text": "I have not received my package yet.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:11 PM"
+    "created": "01/06/24 06:00 AM"
   },
   {
-    "id": "fnSqQNfZrNShJKe",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sadads",
+    "id": "msg_127",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "We appreciate your feedback!",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:11 PM"
+    "created": "01/06/24 07:00 AM"
   },
   {
-    "id": "fnSqzmpftQfUgSB",
+    "id": "msg_128",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "fdgdfg",
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "Do you offer gift wrapping services?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:10 PM"
+    "created": "01/06/24 08:00 AM"
   },
   {
-    "id": "fnSqxauHIE8zTyj",
+    "id": "msg_129",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "sd",
-    "entityType": "MESSAGE",
-    "created": "10/27/24 6:10 PM"
-  },
-  {
-    "id": "fnSqm6KaMT9INBu",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "asd",
+    "text": "You can track your order using the following link.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:09 PM"
+    "created": "01/06/24 09:00 AM"
   },
   {
-    "id": "fnSp1LyEGrPywXy",
+    "id": "msg_130",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sdf",
+    "from": "Alex Johnson",
+    "initials": "A",
+    "text": "Can I get a refund?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:08 PM"
+    "created": "01/06/24 10:00 AM"
   },
   {
-    "id": "fnSpYKkEWkOT2J0",
+    "id": "msg_131",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "dfsg",
+    "text": "I will escalate this to the relevant team.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:08 PM"
+    "created": "01/06/24 11:00 AM"
   },
   {
-    "id": "fnSoGAdamnm82pz",
+    "id": "msg_132",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "asd",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "Do you offer gift wrapping services?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:04 PM"
+    "created": "01/06/24 12:00 PM"
   },
   {
-    "id": "fnSoEawQNppZhv6",
+    "id": "msg_133",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "asd",
+    "text": "I will send you an email confirmation shortly.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 6:04 PM"
+    "created": "01/06/24 01:00 PM"
   },
   {
-    "id": "fnSk5JbjHopd7sU",
+    "id": "msg_134",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "asf",
+    "text": "I need to cancel my order.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:53 PM"
+    "created": "01/06/24 02:00 PM"
   },
   {
-    "id": "fnSk27yQNtibvr1",
+    "id": "msg_135",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "sdf",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:53 PM"
+    "created": "01/06/24 03:00 PM"
   },
   {
-    "id": "fnSkrz0n69uzt4b",
+    "id": "msg_136",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "sdfsdf",
+    "initials": "A",
+    "text": "The live chat is not working.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:51 PM"
+    "created": "01/06/24 04:00 PM"
   },
   {
-    "id": "fnSknP0QFaCdeLa",
+    "id": "msg_137",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "sdf",
+    "text": "I have updated your details in our system.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:51 PM"
+    "created": "01/06/24 05:00 PM"
   },
   {
-    "id": "fnSitFrWbgK0p4g",
+    "id": "msg_138",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "d",
+    "initials": "A",
+    "text": "The live chat is not working.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:45 PM"
+    "created": "01/06/24 06:00 PM"
   },
   {
-    "id": "fnSipbmu7DswgMV",
+    "id": "msg_139",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "d",
-    "entityType": "MESSAGE",
-    "created": "10/27/24 5:45 PM"
-  },
-  {
-    "id": "fnSa42IFwlKszR3",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "asf",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:22 PM"
+    "created": "01/06/24 07:00 PM"
   },
   {
-    "id": "fnSaO2Elm3jmpWG",
+    "id": "msg_140",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "jklkl",
+    "text": "What is your refund policy?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:21 PM"
+    "created": "01/06/24 08:00 PM"
   },
   {
-    "id": "fnSaMRhQmphXsB0",
+    "id": "msg_141",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "fdf",
+    "text": "Please share your order number for verification.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:21 PM"
+    "created": "01/06/24 09:00 PM"
   },
   {
-    "id": "fnSalIfC1qlX8VY",
+    "id": "msg_142",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "sdfsf",
+    "text": "Can I schedule a delivery at a specific time?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:20 PM"
+    "created": "01/06/24 10:00 PM"
   },
   {
-    "id": "fnSakc8shT7x0fh",
+    "id": "msg_143",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "sdf",
+    "text": "Our team will look into this and get back to you shortly.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:20 PM"
+    "created": "01/06/24 11:00 PM"
   },
   {
-    "id": "fnR9UMHl2tjZRTO",
+    "id": "msg_144",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "dsfgdfg",
+    "initials": "A",
+    "text": "Do you offer gift wrapping services?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:18 PM"
+    "created": "01/07/24 12:00 AM"
   },
   {
-    "id": "fnR9SylPKB3r3IQ",
+    "id": "msg_145",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "dg",
-    "entityType": "MESSAGE",
-    "created": "10/27/24 5:18 PM"
-  },
-  {
-    "id": "fnR9m9jIXiLlHYA",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "dsd",
+    "text": "I will escalate this to the relevant team.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:17 PM"
+    "created": "01/07/24 01:00 AM"
   },
   {
-    "id": "fnR8ZB6LQJDIOs1",
+    "id": "msg_146",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Jane Smith",
     "initials": "J",
-    "text": "sf",
+    "text": "Can I get a refund?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:16 PM"
+    "created": "01/07/24 02:00 AM"
   },
   {
-    "id": "fnR8GizPTT7fuZh",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sda",
+    "id": "msg_147",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "Is there anything else I can assist you with?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:15 PM"
+    "created": "01/07/24 03:00 AM"
   },
   {
-    "id": "fnR8Bm5DPkvFgnH",
+    "id": "msg_148",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
-    "initials": "J",
-    "text": "sd",
+    "initials": "X",
+    "text": "Can I get a refund?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:14 PM"
+    "created": "01/07/24 04:00 AM"
   },
   {
-    "id": "fnR8vSTJFLxWR49",
+    "id": "msg_149",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "sd",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:14 PM"
+    "created": "01/07/24 05:00 AM"
   },
   {
-    "id": "fnR8i7foym7jCeG",
+    "id": "msg_150",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sdaf",
+    "from": "Jane Smith",
+    "initials": "A",
+    "text": "Hi, I need help with my order.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:13 PM"
+    "created": "01/07/24 06:00 AM"
   },
   {
-    "id": "fnR8dMdjaqhoAmZ",
+    "id": "msg_151",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "Hi John Doe, this is . You have been transferred to us. We will be in touch shortly.",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:13 PM"
+    "created": "01/07/24 07:00 AM"
   },
   {
-    "id": "fnR4DQrbejRValC",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "asdfasf",
+    "id": "msg_152",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "Do you have this item in stock?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 5:02 PM"
+    "created": "01/07/24 08:00 AM"
   },
   {
-    "id": "fnR1qA8wxTabHcM",
+    "id": "msg_153",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "f",
+    "text": "I will notify you once we receive an update.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 4:52 PM"
+    "created": "01/07/24 09:00 AM"
   },
   {
-    "id": "fnR0hrkLod91BBT",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "d",
+    "id": "msg_154",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "X",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 4:49 PM"
+    "created": "01/07/24 10:00 AM"
   },
   {
-    "id": "fnRfZRKOzxW5QKZ",
+    "id": "msg_155",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "This message was deleted",
+    "text": "How can I assist you today?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:26 PM"
+    "created": "01/07/24 11:00 AM"
   },
   {
-    "id": "fnRfXIrypiY3NN7",
+    "id": "msg_156",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "sa",
+    "text": "How do I return an item?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:26 PM"
+    "created": "01/07/24 12:00 PM"
   },
   {
-    "id": "fnRfL2tOSLNHXqc",
+    "id": "msg_157",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "dd",
+    "text": "Please share your order number for verification.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:25 PM"
+    "created": "01/07/24 01:00 PM"
   },
   {
-    "id": "fnRffYi9ZDwzkHA",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_158",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
     "initials": "A",
-    "text": "d",
+    "text": "I have not received my package yet.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:24 PM"
+    "created": "01/07/24 02:00 PM"
   },
   {
-    "id": "fnReU5a6b2Wrcpk",
+    "id": "msg_159",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "d",
+    "text": "Your issue has been resolved.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:23 PM"
+    "created": "01/07/24 03:00 PM"
   },
   {
-    "id": "fnRefGvYoYOnu9K",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "f",
+    "id": "msg_160",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "The item arrived damaged.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:21 PM"
+    "created": "01/07/24 04:00 PM"
   },
   {
-    "id": "fnRdmxbtLvRJAB8",
+    "id": "msg_161",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "d",
+    "text": "I have updated your details in our system.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:18 PM"
+    "created": "01/07/24 05:00 PM"
   },
   {
-    "id": "fnRcineQHEz4oLE",
+    "id": "msg_162",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "ff",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "The item arrived damaged.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:15 PM"
+    "created": "01/07/24 06:00 PM"
   },
   {
-    "id": "fnRbCissSM3wGQd",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "f",
+    "id": "msg_163",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "I will send you an email confirmation shortly.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:13 PM"
+    "created": "01/07/24 07:00 PM"
   },
   {
-    "id": "fnRaxvyi1XmDvmt",
+    "id": "msg_164",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Jane Smith",
     "initials": "J",
-    "text": "f",
+    "text": "Can I schedule a delivery at a specific time?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:09 PM"
+    "created": "01/07/24 08:00 PM"
   },
   {
-    "id": "fnQ98cGFDPBMzWp",
+    "id": "msg_165",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "s",
+    "text": "Is there anything else I can assist you with?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:08 PM"
+    "created": "01/07/24 09:00 PM"
   },
   {
-    "id": "fnQ9XA6Aj0Xxyor",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "s",
+    "id": "msg_166",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "X",
+    "text": "Do you offer gift wrapping services?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:08 PM"
+    "created": "01/07/24 10:00 PM"
   },
   {
-    "id": "fnQ9UbjXCMc2yKq",
+    "id": "msg_167",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "2d",
+    "text": "I will send you an email confirmation shortly.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:07 PM"
+    "created": "01/07/24 11:00 PM"
   },
   {
-    "id": "fnQ9pSNxfoek3js",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_168",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "ddd",
+    "text": "How do I return an item?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 2:06 PM"
+    "created": "01/08/24 12:00 AM"
   },
   {
-    "id": "fnQ6GHMxMOPd9uw",
+    "id": "msg_169",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "t",
+    "text": "I will notify you once we receive an update.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 1:57 PM"
+    "created": "01/08/24 01:00 AM"
   },
   {
-    "id": "fnQ6fQO2SKSoWOO",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "tt",
+    "id": "msg_170",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "Can I get a refund?",
     "entityType": "MESSAGE",
-    "created": "10/27/24 1:56 PM"
+    "created": "01/08/24 02:00 AM"
   },
   {
-    "id": "fnQ5S4XeMiHjUo3",
+    "id": "msg_171",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "s",
+    "text": "Your issue has been resolved.",
     "entityType": "MESSAGE",
-    "created": "10/27/24 1:55 PM"
+    "created": "01/08/24 03:00 AM"
   },
   {
-    "id": "fnQ33oVWPUL3GBh",
+    "id": "msg_172",
     "direction": "INCOMING",
     "incoming": true,
     "from": "John Doe",
     "initials": "J",
-    "text": "s",
-    "entityType": "MESSAGE",
-    "created": "10/27/24 1:49 PM"
-  },
-  {
-    "id": "fmI1F5VKtA6Yb2M",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "Hi Idan",
+    "text": "When will my package arrive?",
     "entityType": "MESSAGE",
-    "created": "10/18/24 7:50 AM"
+    "created": "01/08/24 04:00 AM"
   },
   {
-    "id": "fl9MXsr3OwVDLDW",
+    "id": "msg_173",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "j",
+    "text": "I apologize for the inconvenience, we're working to resolve this.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:38 PM"
+    "created": "01/08/24 05:00 AM"
   },
   {
-    "id": "fl9MRa03VIVI79r",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_174",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "d",
+    "text": "Can I modify my order before it ships?",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:38 PM"
+    "created": "01/08/24 06:00 AM"
   },
   {
-    "id": "fl9MrJ1Hmjx7hps",
+    "id": "msg_175",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "yeys",
+    "text": "Your request has been processed successfully.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:37 PM"
+    "created": "01/08/24 07:00 AM"
   },
   {
-    "id": "fl9MkDEDNYLNB4c",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "asdasd",
+    "id": "msg_176",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "Hi, I need help with my order.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:36 PM"
+    "created": "01/08/24 08:00 AM"
   },
   {
-    "id": "fl9MhEF35xbnGEo",
+    "id": "msg_177",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "asdads",
-    "entityType": "MESSAGE",
-    "created": "10/13/24 3:36 PM"
-  },
-  {
-    "id": "fl9Mf3EWlq4FSLV",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "sss",
+    "text": "I apologize for the inconvenience, we're working to resolve this.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:36 PM"
+    "created": "01/08/24 09:00 AM"
   },
   {
-    "id": "fl9L8OIKUcrF6vN",
+    "id": "msg_178",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "ss",
-    "entityType": "MESSAGE",
-    "created": "10/13/24 3:36 PM"
-  },
-  {
-    "id": "fl9L4iNdNdLROx5",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "asd",
+    "text": "The tracking number is not updating.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:35 PM"
+    "created": "01/08/24 10:00 AM"
   },
   {
-    "id": "fl9LNpup6J6IOCk",
+    "id": "msg_179",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "ttt",
+    "text": "I have updated your details in our system.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:35 PM"
+    "created": "01/08/24 11:00 AM"
   },
   {
-    "id": "fl9LmGCsAXnZVBo",
+    "id": "msg_180",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "2",
+    "text": "Can I get a refund?",
+    "entityType": "MESSAGE",
+    "created": "01/08/24 12:00 PM"
+  },
+  {
+    "id": "msg_181",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Customer Service",
+    "initials": "A",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:33 PM"
+    "created": "01/08/24 01:00 PM"
   },
   {
-    "id": "fl9LjLsAEUGdnul",
+    "id": "msg_182",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "1",
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "How can I contact customer support?",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:33 PM"
+    "created": "01/08/24 02:00 PM"
   },
   {
-    "id": "fl9LeMcHTFLu2ZN",
+    "id": "msg_183",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "כ",
+    "text": "You can track your order using the following link.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:33 PM"
+    "created": "01/08/24 03:00 PM"
   },
   {
-    "id": "fl9Lbl4FR6qurao",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "יככ",
+    "id": "msg_184",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:33 PM"
+    "created": "01/08/24 04:00 PM"
   },
   {
-    "id": "fl9K4vFHKrkNh1n",
+    "id": "msg_185",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "אא",
+    "text": "Let us know if you need further assistance.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:32 PM"
+    "created": "01/08/24 05:00 PM"
   },
   {
-    "id": "fl9K2jfLQyEja4v",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_186",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "כ",
+    "text": "The tracking number is not updating.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:32 PM"
+    "created": "01/08/24 06:00 PM"
   },
   {
-    "id": "fl9KQ286xPu3j3R",
+    "id": "msg_187",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "כ",
+    "text": "Our team will look into this and get back to you shortly.",
     "entityType": "MESSAGE",
-    "created": "10/13/24 3:32 PM"
+    "created": "01/08/24 07:00 PM"
   },
   {
-    "id": "flNg0jQPUy7Bz9V",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "Note 1",
-    "entityType": "NOTE",
-    "created": "10/10/24 3:57 PM"
+    "id": "msg_188",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "How do I return an item?",
+    "entityType": "MESSAGE",
+    "created": "01/08/24 08:00 PM"
   },
   {
-    "id": "flEhLvdXxAlZXEW",
+    "id": "msg_189",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "https://localhost/sales/chat/e2WBpXIgiaplZKB#/sales/chat/e2WBpXIgiaplZKB?chatHubs=eQTK7DWvM5Qcj45&startDate=10/09/24&endDate=10/09/24",
+    "text": "I will escalate this to the relevant team.",
     "entityType": "MESSAGE",
-    "created": "10/09/24 11:20 AM"
+    "created": "01/08/24 09:00 PM"
   },
   {
-    "id": "flD8oC50BD7im43",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_190",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "Test",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "10/09/24 10:51 AM"
+    "created": "01/08/24 10:00 PM"
   },
   {
-    "id": "fhSmNWguNIZX3zG",
+    "id": "msg_191",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "sdafasdf",
+    "text": "I understand your concern, let me check that for you.",
     "entityType": "MESSAGE",
-    "created": "09/08/24 10:34 AM"
+    "created": "01/08/24 11:00 PM"
   },
   {
-    "id": "fhixDWL3vRSEmjO",
+    "id": "msg_192",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "Hi John Doe! Please use the following link to pay your invoice. Thank you! - https://dev.pckg.ai/Y5vbVGxv",
+    "text": "My package was marked as delivered, but I didn't receive it.",
+    "entityType": "MESSAGE",
+    "created": "01/09/24 12:00 AM"
+  },
+  {
+    "id": "msg_193",
+    "direction": "OUTGOING",
+    "incoming": false,
+    "from": "Support",
+    "initials": "A",
+    "text": "I apologize for the inconvenience, we're working to resolve this.",
     "entityType": "MESSAGE",
-    "created": "09/03/24 4:30 PM"
+    "created": "01/09/24 01:00 AM"
   },
   {
-    "id": "ffsftOVLdfWAYpW",
+    "id": "msg_194",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "Hi John Doe! Please use the following link to pay your invoice. Thank you! - https://dev.pckg.ai/bdQeGuGVc",
+    "text": "The tracking number is not updating.",
     "entityType": "MESSAGE",
-    "created": "08/19/24 12:36 PM"
+    "created": "01/09/24 02:00 AM"
   },
   {
-    "id": "ffllwyJvsTAIXFJ",
+    "id": "msg_195",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "t",
+    "text": "Our team will look into this and get back to you shortly.",
     "entityType": "MESSAGE",
-    "created": "08/18/24 2:38 PM"
+    "created": "01/09/24 03:00 AM"
   },
   {
-    "id": "fcNCwWulHJh5voO",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "Thank you for reaching out. Our team is here to assist you with any questions or concerns regarding your order or delivery. Please feel free to contact us at 1-866-787-7931 for further assistance.",
+    "id": "msg_196",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "How do I return an item?",
     "entityType": "MESSAGE",
-    "created": "07/28/24 4:27 PM"
+    "created": "01/09/24 04:00 AM"
   },
   {
-    "id": "e9uQk0epxJ3mike",
+    "id": "msg_197",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "test",
+    "text": "I will send you an email confirmation shortly.",
     "entityType": "MESSAGE",
-    "created": "07/01/24 12:27 PM"
+    "created": "01/09/24 05:00 AM"
   },
   {
-    "id": "e8OuXsVhQdx39qz",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "https://app.dev.package.ai/dev1/#/app/general_settings?tab=USERS&h=all&d=1717922082399general_settings?tab=USERS&h=all&d=1717922082399",
+    "id": "msg_198",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "X",
+    "text": "Do you have this item in stock?",
     "entityType": "MESSAGE",
-    "created": "06/25/24 9:38 PM"
+    "created": "01/09/24 06:00 AM"
   },
   {
-    "id": "e8Oo0uoKystETAz",
+    "id": "msg_199",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "Thank you for reaching out. Our team is here to assist you with any questions or concerns regarding your order or delivery. Please feel free to contact us at 1-866-787-7931 for further assistance.",
+    "text": "I have updated your details in our system.",
     "entityType": "MESSAGE",
-    "created": "06/25/24 9:20 PM"
+    "created": "01/09/24 07:00 AM"
   },
   {
-    "id": "e8MVm9H9e2toOUp",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_200",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
     "initials": "A",
-    "text": "I apologize for any inconvenience. If you have any questions or need assistance, please feel free to contact us at 1-866-787-7931. We are here to help.",
+    "text": "Can I schedule a delivery at a specific time?",
     "entityType": "MESSAGE",
-    "created": "06/25/24 4:37 PM"
+    "created": "01/09/24 08:00 AM"
   },
   {
-    "id": "e8LH7IAEZCGn5eo",
+    "id": "msg_201",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "Iapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.OurteamisreadytosIapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.OurteamisreadytosIapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.OurteamisreadytosIapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.OurteamisreadytosIapologizeforanyinconvenience.Pleaserestassuredthatweareheretoassistyouwithanyquestionsorconcernsyoumayhaveregardingyourorderordelivery.Ourteamisreadytos",
+    "text": "I'm checking the details now, one moment please.",
     "entityType": "MESSAGE",
-    "created": "06/25/24 12:46 PM"
+    "created": "01/09/24 09:00 AM"
   },
   {
-    "id": "e8EdifswmhJRDK8",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "I apologize for any inconvenience. Please rest assured that we are here to assist you with any questions or concerns you may have regarding your order or delivery. Our team is ready to support you every step of the way.",
+    "id": "msg_202",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "How can I contact customer support?",
     "entityType": "MESSAGE",
-    "created": "06/24/24 12:53 PM"
+    "created": "01/09/24 10:00 AM"
   },
   {
-    "id": "e8Dv8DEvsKQstX5",
+    "id": "msg_203",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "Certainly! Please let me know how I can assist you further.",
+    "text": "How can I assist you today?",
     "entityType": "MESSAGE",
-    "created": "06/24/24 10:40 AM"
+    "created": "01/09/24 11:00 AM"
   },
   {
-    "id": "e8Duf1GFbFkgHHG",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "d",
+    "id": "msg_204",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "Do you have this item in stock?",
     "entityType": "MESSAGE",
-    "created": "06/24/24 10:35 AM"
+    "created": "01/09/24 12:00 PM"
   },
   {
-    "id": "e8DqU2OLlMoS6Gb",
+    "id": "msg_205",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "Understood. Thank you for letting me know. I will wait for further instructions.",
+    "text": "You can track your order using the following link.",
     "entityType": "MESSAGE",
-    "created": "06/24/24 10:24 AM"
+    "created": "01/09/24 01:00 PM"
   },
   {
-    "id": "e8w7ALBtErRamL7",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "Hi John Doe, this is . You have been transferred to us. We will be in touch shortly.",
+    "id": "msg_206",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "The item arrived damaged.",
     "entityType": "MESSAGE",
-    "created": "06/23/24 2:19 PM"
+    "created": "01/09/24 02:00 PM"
   },
   {
-    "id": "e8v2AoJRFf5PA8N",
+    "id": "msg_207",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "www.localhost:8080/#/sales/chat/e5m05KdNGFhMbd7?chatHubs=eJ5L1zWles395Xb&startDate=06/06/24&endDate=06/23/24",
+    "text": "We are sorry for the delay, let me check with our delivery team.",
     "entityType": "MESSAGE",
-    "created": "06/23/24 10:52 AM"
+    "created": "01/09/24 03:00 PM"
   },
   {
-    "id": "e8v2yhU90dfRskt",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "http://localhost:8080/#/sales/chat/e5m05KdNGFhMbd7?chatHubs=eJ5L1zWles395Xb&startDate=06/06/24&endDate=06/23/24",
+    "id": "msg_208",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "J",
+    "text": "The item arrived damaged.",
     "entityType": "MESSAGE",
-    "created": "06/23/24 10:52 AM"
+    "created": "01/09/24 04:00 PM"
   },
   {
-    "id": "e7Xxka6OBxcIhz4",
+    "id": "msg_209",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "ff",
+    "text": "I understand your concern, let me check that for you.",
     "entityType": "MESSAGE",
-    "created": "06/18/24 9:01 PM"
+    "created": "01/09/24 05:00 PM"
   },
   {
-    "id": "e7UDnbwKI527QWR",
+    "id": "msg_210",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Jane Smith",
     "initials": "J",
-    "text": "sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj v sdaf sdfjh sdakj sakj v sdaf sdfjh sdakj sakjsdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj sdaf sdfjh sdakj sakj",
+    "text": "How do I return an item?",
     "entityType": "MESSAGE",
-    "created": "06/18/24 11:46 AM"
+    "created": "01/09/24 06:00 PM"
   },
   {
-    "id": "e7Un1Y6fMcL9GgR",
+    "id": "msg_211",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "sdsd",
+    "text": "Please share your order number for verification.",
     "entityType": "MESSAGE",
-    "created": "06/18/24 10:59 AM"
+    "created": "01/09/24 07:00 PM"
   },
   {
-    "id": "e7UnTwtm3AcBuAF",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "sdsd",
+    "id": "msg_212",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "Can I change my delivery address?",
     "entityType": "MESSAGE",
-    "created": "06/18/24 10:58 AM"
+    "created": "01/09/24 08:00 PM"
   },
   {
-    "id": "e7RaMSTsV41s8kQ",
+    "id": "msg_213",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "This message was deleted",
+    "text": "Your refund request has been initiated.",
     "entityType": "MESSAGE",
-    "created": "06/18/24 12:45 AM"
+    "created": "01/09/24 09:00 PM"
   },
   {
-    "id": "e7Ravtbw9aQIJHg",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_214",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
     "initials": "A",
-    "text": "This message was deleted",
+    "text": "The live chat is not working.",
     "entityType": "MESSAGE",
-    "created": "06/18/24 12:44 AM"
+    "created": "01/09/24 10:00 PM"
   },
   {
-    "id": "e7Q8mzwSWdp6g7E",
+    "id": "msg_215",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "asdf sf sf sf s\nf safsadfl slkfj klsjf lajsfj sklfj alkf",
+    "text": "Our team will look into this and get back to you shortly.",
+    "entityType": "MESSAGE",
+    "created": "01/09/24 11:00 PM"
+  },
+  {
+    "id": "msg_216",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "The live chat is not working.",
     "entityType": "MESSAGE",
-    "created": "06/18/24 12:38 AM"
+    "created": "01/10/24 12:00 AM"
   },
   {
-    "id": "e7PE8XjWcKjGcVT",
+    "id": "msg_217",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to yo\nu as soon as possible during the next business day.",
+    "text": "I apologize for the inconvenience, we're working to resolve this.",
     "entityType": "MESSAGE",
-    "created": "06/17/24 7:56 PM"
+    "created": "01/10/24 01:00 AM"
   },
   {
-    "id": "e7PEFlVAFSrS8Ic",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_218",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
     "initials": "A",
-    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to yo\nu as soon as possible during the next business day.",
+    "text": "My package was marked as delivered, but I didn't receive it.",
     "entityType": "MESSAGE",
-    "created": "06/17/24 7:55 PM"
+    "created": "01/10/24 02:00 AM"
   },
   {
-    "id": "e7O4N7VGCGhGBX3",
+    "id": "msg_219",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "web inquiry template!",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "06/17/24 6:04 PM"
+    "created": "01/10/24 03:00 AM"
   },
   {
-    "id": "e7O4N7bpTfiNfGz",
+    "id": "msg_220",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
+    "from": "Alex Johnson",
     "initials": "J",
-    "text": "This message was deleted",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "06/17/24 6:04 PM"
+    "created": "01/10/24 04:00 AM"
   },
   {
-    "id": "e7O1GSFLeS4Fwzg",
+    "id": "msg_221",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "Hi - our customer support hours are Monday-Saturday 8 AM to 7 PM, we will get back to you as soon as possible during the next business day.",
+    "text": "Is there anything else I can assist you with?",
     "entityType": "MESSAGE",
-    "created": "06/17/24 5:55 PM"
+    "created": "01/10/24 05:00 AM"
   },
   {
-    "id": "e7O1GQrSd8KaSHe",
+    "id": "msg_222",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "test test",
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "My order was incorrect.",
     "entityType": "MESSAGE",
-    "created": "06/17/24 5:55 PM"
+    "created": "01/10/24 06:00 AM"
   },
   {
-    "id": "e7N3Xq1zgG5fhbl",
+    "id": "msg_223",
+    "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "sdaf3df",
-    "entityType": "NOTE",
-    "created": "06/17/24 2:51 PM"
+    "text": "I'm checking the details now, one moment please.",
+    "entityType": "MESSAGE",
+    "created": "01/10/24 07:00 AM"
   },
   {
-    "id": "e7H186BWH42W3pN",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "test3",
-    "entityType": "NOTE",
-    "created": "06/16/24 7:39 PM"
+    "id": "msg_224",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "J",
+    "text": "I need to cancel my order.",
+    "entityType": "MESSAGE",
+    "created": "01/10/24 08:00 AM"
   },
   {
-    "id": "e7H1LhPOoQ18QYc",
+    "id": "msg_225",
+    "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "test2",
-    "entityType": "NOTE",
-    "created": "06/16/24 7:38 PM"
+    "text": "I will notify you once we receive an update.",
+    "entityType": "MESSAGE",
+    "created": "01/10/24 09:00 AM"
   },
   {
-    "id": "e7H1CDSxOrkvinf",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_226",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Alex Johnson",
     "initials": "A",
-    "text": "test",
-    "entityType": "NOTE",
-    "created": "06/16/24 7:37 PM"
+    "text": "My package was marked as delivered, but I didn't receive it.",
+    "entityType": "MESSAGE",
+    "created": "01/10/24 10:00 AM"
   },
   {
-    "id": "e24UHh1Ol9NZNDs",
+    "id": "msg_227",
+    "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "testtt",
-    "entityType": "NOTE",
-    "created": "05/09/24 5:30 PM"
+    "text": "I will escalate this to the relevant team.",
+    "entityType": "MESSAGE",
+    "created": "01/10/24 11:00 AM"
   },
   {
-    "id": "e24nOD8yCAT4iqU",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "d",
+    "id": "msg_228",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "X",
+    "text": "Can I change my delivery address?",
     "entityType": "MESSAGE",
-    "created": "05/09/24 3:48 PM"
+    "created": "01/10/24 12:00 PM"
   },
   {
-    "id": "e24lRVpUyPM8V6U",
+    "id": "msg_229",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "f",
+    "text": "Your issue has been resolved.",
     "entityType": "MESSAGE",
-    "created": "05/09/24 3:42 PM"
+    "created": "01/10/24 01:00 PM"
   },
   {
-    "id": "e24lEkxDsOY9SWb",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_230",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
     "initials": "A",
-    "text": "d",
+    "text": "Can I schedule a delivery at a specific time?",
     "entityType": "MESSAGE",
-    "created": "05/09/24 3:42 PM"
+    "created": "01/10/24 02:00 PM"
   },
   {
-    "id": "e24lqiwbsHzuBdH",
+    "id": "msg_231",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Support",
     "initials": "A",
-    "text": "s",
+    "text": "Our team will look into this and get back to you shortly.",
     "entityType": "MESSAGE",
-    "created": "05/09/24 3:41 PM"
+    "created": "01/10/24 03:00 PM"
   },
   {
-    "id": "e24kV37YPbtZEvi",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_232",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "d",
+    "text": "How can I contact customer support?",
     "entityType": "MESSAGE",
-    "created": "05/09/24 3:39 PM"
+    "created": "01/10/24 04:00 PM"
   },
   {
-    "id": "e24kQiqkS6qcO28",
+    "id": "msg_233",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "dd",
+    "text": "Thank you for your patience.",
     "entityType": "MESSAGE",
-    "created": "05/09/24 3:39 PM"
+    "created": "01/10/24 05:00 PM"
   },
   {
-    "id": "e23jWVb5mjSUUfo",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_234",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "d",
+    "text": "How do I return an item?",
     "entityType": "MESSAGE",
-    "created": "05/09/24 12:25 PM"
+    "created": "01/10/24 06:00 PM"
   },
   {
-    "id": "e23eKbc8g9Qf87Z",
+    "id": "msg_235",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "d",
+    "text": "I have updated your details in our system.",
     "entityType": "MESSAGE",
-    "created": "05/09/24 12:09 PM"
+    "created": "01/10/24 07:00 PM"
   },
   {
-    "id": "e23ewI8QZS72KpK",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_236",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
     "initials": "A",
-    "text": "dsd",
+    "text": "The live chat is not working.",
     "entityType": "MESSAGE",
-    "created": "05/09/24 12:09 PM"
+    "created": "01/10/24 08:00 PM"
   },
   {
-    "id": "e226wccLuP4pRtq",
+    "id": "msg_237",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "test",
+    "text": "Please provide more details so I can assist you better.",
     "entityType": "MESSAGE",
-    "created": "05/09/24 11:44 AM"
+    "created": "01/10/24 09:00 PM"
   },
   {
-    "id": "e225yZxGQ5di4xk",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "cxv",
+    "id": "msg_238",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "X",
+    "text": "Do you have this item in stock?",
     "entityType": "MESSAGE",
-    "created": "05/09/24 11:41 AM"
+    "created": "01/10/24 10:00 PM"
   },
   {
-    "id": "e2249OBm58llDNP",
+    "id": "msg_239",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "d",
+    "text": "Is there anything else I can assist you with?",
     "entityType": "MESSAGE",
-    "created": "05/09/24 11:40 AM"
+    "created": "01/10/24 11:00 PM"
   },
   {
-    "id": "e22Xmf5lFbse0Qh",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "test",
+    "id": "msg_240",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "X",
+    "text": "When will my package arrive?",
     "entityType": "MESSAGE",
-    "created": "05/09/24 11:16 AM"
+    "created": "01/11/24 12:00 AM"
   },
   {
-    "id": "e22XdzzWnA4EZj0",
+    "id": "msg_241",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "122121",
+    "text": "I will send you an email confirmation shortly.",
     "entityType": "MESSAGE",
-    "created": "05/09/24 11:15 AM"
+    "created": "01/11/24 01:00 AM"
   },
   {
-    "id": "e22WxuAHrtexINm",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
+    "id": "msg_242",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
     "initials": "A",
-    "text": "ddda",
+    "text": "How can I contact customer support?",
     "entityType": "MESSAGE",
-    "created": "05/09/24 11:13 AM"
+    "created": "01/11/24 02:00 AM"
   },
   {
-    "id": "e22RqFdfmZ8UGOR",
+    "id": "msg_243",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "hjsdkf",
+    "text": "Is there anything else I can assist you with?",
     "entityType": "MESSAGE",
-    "created": "05/09/24 10:57 AM"
+    "created": "01/11/24 03:00 AM"
   },
   {
-    "id": "e2XZJh05MwHw8iz",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "dfs",
+    "id": "msg_244",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "John Doe",
+    "initials": "J",
+    "text": "Hi, I need help with my order.",
     "entityType": "MESSAGE",
-    "created": "05/08/24 7:28 PM"
+    "created": "01/11/24 04:00 AM"
   },
   {
-    "id": "e2XZsvLXVrdJ2vr",
+    "id": "msg_245",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "dd",
+    "text": "We are sorry for the delay, let me check with our delivery team.",
     "entityType": "MESSAGE",
-    "created": "05/08/24 7:27 PM"
+    "created": "01/11/24 05:00 AM"
   },
   {
-    "id": "e2XZqtVhiTMF7X8",
-    "direction": "OUTGOING",
-    "incoming": false,
-    "from": "Agent",
-    "initials": "A",
-    "text": "d",
+    "id": "msg_246",
+    "direction": "INCOMING",
+    "incoming": true,
+    "from": "Jane Smith",
+    "initials": "J",
+    "text": "Can I modify my order before it ships?",
     "entityType": "MESSAGE",
-    "created": "05/08/24 7:27 PM"
+    "created": "01/11/24 06:00 AM"
   },
   {
-    "id": "e2WBpX5FEu8BNCU",
+    "id": "msg_247",
     "direction": "OUTGOING",
     "incoming": false,
     "from": "Agent",
     "initials": "A",
-    "text": "fds ksadjfkl sjadfklj sakldfj aslkjf kljsf klasj flkas fklsa fkljs flkjasf",
-    "entityType": "MESSAGE",
-    "created": "05/08/24 3:02 PM"
-  },
-  {
-    "id": "e2WzMbNuJqvUq5C",
-    "direction": "INCOMING",
-    "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "dsf sdfsa ff fdjs kflk sdfkl sdflk sflk klf kljf lkjsdf kjs fdkls fkljsdfkljskf klsf klsjf lkjsafl. ksjdflkj sflkj aklfj alksjfklsdfj kasjf kljf kj sfkl askfj asklf",
+    "text": "Please provide more details so I can assist you better.",
     "entityType": "MESSAGE",
-    "created": "05/08/24 2:57 PM"
+    "created": "01/11/24 07:00 AM"
   },
   {
-    "id": "e2V4PmLke1KirhP",
+    "id": "msg_248",
     "direction": "INCOMING",
     "incoming": true,
-    "from": "John Doe",
-    "initials": "J",
-    "text": "Hi flon, this is . You have been transferred to us. We will be in touch shortly.",
+    "from": "Alex Johnson",
+    "initials": "X",
+    "text": "The item arrived damaged.",
     "entityType": "MESSAGE",
-    "created": "05/08/24 1:21 PM"
+    "created": "01/11/24 08:00 AM"
   },
   {
-    "id": "e2V4tXMcgqYHA42",
+    "id": "msg_249",
     "direction": "OUTGOING",
     "incoming": false,
-    "from": "Agent",
+    "from": "Customer Service",
     "initials": "A",
-    "text": "This message was deleted",
+    "text": "I have updated your details in our system.",
     "entityType": "MESSAGE",
-    "created": "05/08/24 1:20 PM"
+    "created": "01/11/24 09:00 AM"
   }
 ]

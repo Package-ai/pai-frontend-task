@@ -8,7 +8,6 @@
         <ChatMessage v-for="item in items" :key="item.id" :item="item" />
       </div>
     </div>
-    <ChatContainer />
   </div>
 </template>
 

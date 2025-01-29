@@ -45,14 +45,7 @@
     </div>
   </div>
 </template>
-<script>
-export default {
-  name: 'ChatMessage',
-  props: {
-    item: {
-      type: Object,
-      required: true,
-    },
-  },
-}
+
+<script setup>
+defineProps(['item'])
 </script>
